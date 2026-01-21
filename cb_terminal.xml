@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 06:40:13 +0000</lastBuildDate>
-    <item>
-      <title>ダボス会議へ向かうAir Force One、機体トラブルにより基地へ引き返し</title>
-      <link>https://cb-terminal.dev/ja/topic/1160e66b-9295-47a8-ae9c-157f9603c5b2</link>
-      <description>ダボス会議へ向かうAir Force One、機体トラブルにより基地へ引き返し</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>米仮想通貨市場構造法案、近日発表の見通し＝アドバイザー</title>
-      <link>https://cb-terminal.dev/ja/topic/d814610e-1646-4eb1-82e1-37ad3c2425a3</link>
-      <description>米仮想通貨市場構造法案、近日発表の見通し＝アドバイザー</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ETHの大口クジラ、3,000ドル付近で大規模な売買を実行</title>
-      <link>https://cb-terminal.dev/ja/topic/ff5099bb-5111-4667-9bed-73e4334ad364</link>
-      <description>ETHの大口クジラ、3,000ドル付近で大規模な売買を実行</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance、THORChainネットワークのアップグレード対応を発表</title>
-      <link>https://cb-terminal.dev/ja/topic/03fdf795-6a35-4dc0-9899-089f3e0eb25b</link>
-      <description>Binance、THORChainネットワークのアップグレード対応を発表</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steak 'n Shake、従業員向けBitcoinボーナスプログラムを導入へ</title>
-      <link>https://cb-terminal.dev/ja/topic/30e179f6-1cfb-4731-a7d9-651ec2dd8200</link>
-      <description>Steak 'n Shake、従業員向けBitcoinボーナスプログラムを導入へ</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>米現物Ethereum ETF、2億3000万ドルの大幅な純流出を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/ae5ed31f-3c5c-49af-ab4d-64eacad59d27</link>
-      <description>米現物Ethereum ETF、2億3000万ドルの大幅な純流出を記録</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Snap Storeの脆弱性、仮想通貨ウォレットを標的に</title>
-      <link>https://cb-terminal.dev/ja/topic/3557b9ae-8845-410b-be96-34f9885fd985</link>
-      <description>Linux Snap Storeの脆弱性、仮想通貨ウォレットを標的に</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sakuracoin ($SKR)、Seekerユーザー向けエアドロップ開始。Jupiterでの取引も活発化</title>
-      <link>https://cb-terminal.dev/ja/topic/5eb263cd-eb04-4b97-8d5d-ee754cc8f6a8</link>
-      <description>Sakuracoin ($SKR)、Seekerユーザー向けエアドロップ開始。Jupiterでの取引も活発化</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>1月20日の仮想通貨ETF資金フロー：Bitcoinは4.8億ドルの大幅流出、Ethereumも2.3億ドルの流出を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/f85a6dbe-f538-4d66-8e93-d77f57868e2d</link>
-      <description>1月20日の仮想通貨ETF資金フロー：Bitcoinは4.8億ドルの大幅流出、Ethereumも2.3億ドルの流出を記録</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>地政学リスクと債券市場の変動で金価格が急騰、過去最高の4,860ドルに到達</title>
-      <link>https://cb-terminal.dev/ja/topic/72bf0444-8920-4920-9ddb-bf26f05a3918</link>
-      <description>地政学リスクと債券市場の変動で金価格が急騰、過去最高の4,860ドルに到達</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>pump.fun、累計収益10億ドルに迫る</title>
-      <link>https://cb-terminal.dev/ja/topic/4e72581e-a788-48e3-a57e-cf9d6cc65df5</link>
-      <description>pump.fun、累計収益10億ドルに迫る</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 07:30:36 +0000</lastBuildDate>
     <item>
       <title>セキュリティ警告：Mithrilトレーディングボットが侵害、APIキーの即時削除を推奨</title>
       <link>https://cb-terminal.dev/ja/topic/5abea13e-0300-45b0-bf07-1020fe2fa339</link>
       <description>セキュリティ警告：Mithrilトレーディングボットが侵害、APIキーの即時削除を推奨</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>三井住友フィナンシャルグループ、JGB保有額を20兆円超へ倍増を計画 ── 金利上昇期待を背景に</title>
       <link>https://cb-terminal.dev/ja/topic/bd0505ab-8782-4e51-b03b-559b431f17d3</link>
       <description>三井住友フィナンシャルグループ、JGB保有額を20兆円超へ倍増を計画 ── 金利上昇期待を背景に</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy Digital、1億ドル規模の仮想通貨ヘッジファンドを設立へ</title>
       <link>https://cb-terminal.dev/ja/topic/5974da93-0d90-49c6-abb2-6c88b3cbc170</link>
       <description>Galaxy Digital、1億ドル規模の仮想通貨ヘッジファンドを設立へ</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Kintsu、Monadエコシステム向けにSuperMON Vaultsをローンチ</title>
       <link>https://cb-terminal.dev/ja/topic/ea3c7def-754d-460e-81b7-c9acb74a83d3</link>
       <description>Kintsu、Monadエコシステム向けにSuperMON Vaultsをローンチ</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Akedo Games、Karatage主導のラウンドで500万ドルの資金を調達</title>
       <link>https://cb-terminal.dev/ja/topic/ed3ae476-c2c3-476c-a800-7294670d9741</link>
       <description>Akedo Games、Karatage主導のラウンドで500万ドルの資金を調達</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>FunctionBTC、Solanaネットワーク上でFBTCをローンチ</title>
       <link>https://cb-terminal.dev/ja/topic/c73ef769-f94e-4cc8-9cfa-4818913aec80</link>
       <description>FunctionBTC、Solanaネットワーク上でFBTCをローンチ</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>Backpack、トークン配布モデルとシビル対策を公表。Mad Ladsへのエアドロップは否定</title>
       <link>https://cb-terminal.dev/ja/topic/7684c349-99d8-470d-80e4-e7871071ec7b</link>
       <description>Backpack、トークン配布モデルとシビル対策を公表。Mad Ladsへのエアドロップは否定</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>トランプ大統領のグリーンランド巡る論争、ウクライナ合意を頓挫させたとの報道</title>
       <link>https://cb-terminal.dev/ja/topic/28d8a1ab-207d-4e67-b74b-e5631a151af6</link>
       <description>トランプ大統領のグリーンランド巡る論争、ウクライナ合意を頓挫させたとの報道</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
     <item>
       <title>世界的な緊張の高まりを受け、金価格が過去最高値を更新</title>
       <link>https://cb-terminal.dev/ja/topic/5c6f5694-f1bd-428c-baa4-d84d2e236e2e</link>
       <description>世界的な緊張の高まりを受け、金価格が過去最高値を更新</description>
-      <pubDate>Wed, 21 Jan 2026 06:40:13 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>12月英国コアCPI、前年比3.2%上昇、予想をわずかに下回る</title>
+      <link>https://cb-terminal.dev/ja/topic/a5e66b33-080a-4838-a6a0-addecff0d7dc</link>
+      <description>12月英国コアCPI、前年比3.2%上昇、予想をわずかに下回る</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>OKX幹部、Binanceの内部紛争と距離を置く意向　開発への専念を強調</title>
+      <link>https://cb-terminal.dev/ja/topic/60731642-3a13-4926-ba5e-5c80e9acbbac</link>
+      <description>OKX幹部、Binanceの内部紛争と距離を置く意向　開発への専念を強調</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>プロジェクトのティザーに隠されたメッセージ、エアドロップの憶測を呼ぶ</title>
+      <link>https://cb-terminal.dev/ja/topic/6a202d1a-707e-4eae-91c1-bcda0f35b0d2</link>
+      <description>プロジェクトのティザーに隠されたメッセージ、エアドロップの憶測を呼ぶ</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ray Dalio、資本戦争の可能性とAI市場バブルを警告</title>
+      <link>https://cb-terminal.dev/ja/topic/2b7774b3-8523-44dd-a78b-e72b4550c74a</link>
+      <description>Ray Dalio、資本戦争の可能性とAI市場バブルを警告</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>トレーダー、$ZRealへの3万ドルの投資から3,600万ドルの利益を創出</title>
+      <link>https://cb-terminal.dev/ja/topic/8d4b2a68-5869-4156-87c4-bcd5ebea744c</link>
+      <description>トレーダー、$ZRealへの3万ドルの投資から3,600万ドルの利益を創出</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>市場の混乱を受け、天然ガスとスズの価格が急騰</title>
+      <link>https://cb-terminal.dev/ja/topic/eb75984e-cbf8-43bd-b88c-41752fd069fe</link>
+      <description>市場の混乱を受け、天然ガスとスズの価格が急騰</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana Mobileエコシステム、TGEを経て主要取引所に$SKRトークンを上場</title>
+      <link>https://cb-terminal.dev/ja/topic/4e2ee763-f533-4dd9-93d7-a73aef289a56</link>
+      <description>Solana Mobileエコシステム、TGEを経て主要取引所に$SKRトークンを上場</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Justin Sun、USDDステーブルコインの拡大戦略を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/bc405f51-f911-4a71-bfc2-2172253bac48</link>
+      <description>Justin Sun、USDDステーブルコインの拡大戦略を発表</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House Crypto Councilと顧問、市場構造ルールの導入が間近であることを示唆</title>
+      <link>https://cb-terminal.dev/ja/topic/d814610e-1646-4eb1-82e1-37ad3c2425a3</link>
+      <description>White House Crypto Councilと顧問、市場構造ルールの導入が間近であることを示唆</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏の「Peace Council」が拡大：Netanyahu首相が参加、各国に10億ドルの参加費を要求</title>
+      <link>https://cb-terminal.dev/ja/topic/b813ed6d-de70-49b2-9725-9917e4627567</link>
+      <description>トランプ氏の「Peace Council」が拡大：Netanyahu首相が参加、各国に10億ドルの参加費を要求</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>HyperLend、HyperEVMレンディングプロトコル開発に向けて170万ドルを調達</title>
+      <link>https://cb-terminal.dev/ja/topic/b8d67037-e65c-4daf-b6e4-4e57f0f3c411</link>
+      <description>HyperLend、HyperEVMレンディングプロトコル開発に向けて170万ドルを調達</description>
+      <pubDate>Wed, 21 Jan 2026 07:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
