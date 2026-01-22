@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 20:30:38 +0000</lastBuildDate>
-    <item>
-      <title>Immunefi (IMU) が取引開始、FDVは1億600万ドル</title>
-      <link>https://cb-terminal.dev/ja/topic/1897ec2d-44a7-4b7a-9c34-3466e965c30c</link>
-      <description>Immunefi (IMU) が取引開始、FDVは1億600万ドル</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman: OpenAIのAPI事業、直近1ヶ月でARR 10億ドル以上を追加</title>
-      <link>https://cb-terminal.dev/ja/topic/929c8411-43b8-4361-beb1-3ce0105cdb5f</link>
-      <description>Sam Altman: OpenAIのAPI事業、直近1ヶ月でARR 10億ドル以上を追加</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本国債市場の流動性が過去最低を更新</title>
-      <link>https://cb-terminal.dev/ja/topic/da66a32f-d266-4f67-8c06-af7791ceb451</link>
-      <description>日本国債市場の流動性が過去最低を更新</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、金融・エネルギー・医療分野のAI支援による発見に対する利益分配モデルを計画</title>
-      <link>https://cb-terminal.dev/ja/topic/7a9b890c-5d64-4e2c-aa4c-de456a9c49f5</link>
-      <description>OpenAI、金融・エネルギー・医療分野のAI支援による発見に対する利益分配モデルを計画</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、ダボス会議を離れワシントンD.C.へ帰還。グリーンランドに関する「枠組み」進行中と認める</title>
-      <link>https://cb-terminal.dev/ja/topic/8268e8f0-b857-4ace-a70d-583663e1167d</link>
-      <description>トランプ大統領、ダボス会議を離れワシントンD.C.へ帰還。グリーンランドに関する「枠組み」進行中と認める</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>SKALE Network、PGA TOURと提携し「PGA TOUR RISE」イニシアチブを開始</title>
-      <link>https://cb-terminal.dev/ja/topic/be194bbd-2b87-4e43-a870-174626491307</link>
-      <description>SKALE Network、PGA TOURと提携し「PGA TOUR RISE」イニシアチブを開始</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple CEO Tim Cook、直近の退任予定なしとの報道</title>
-      <link>https://cb-terminal.dev/ja/topic/eb5463e9-eb54-4dad-9aba-8bef45272005</link>
-      <description>Apple CEO Tim Cook、直近の退任予定なしとの報道</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tesla、Austinで無人Robotaxiの走行を開始</title>
-      <link>https://cb-terminal.dev/ja/topic/44ef1d86-950b-42a5-a616-eb9a8e7d18a9</link>
-      <description>Tesla、Austinで無人Robotaxiの走行を開始</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chainlink、オラクル価値捕捉の拡大に向けAtlasを買収</title>
-      <link>https://cb-terminal.dev/ja/topic/c931e677-f980-4d83-b02b-a0837c99d7b2</link>
-      <description>Chainlink、オラクル価値捕捉の拡大に向けAtlasを買収</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tether (USDT)、Plasmaネットワークに展開</title>
-      <link>https://cb-terminal.dev/ja/topic/b03c6d4f-26ad-4169-8283-b31e768a6a24</link>
-      <description>Tether (USDT)、Plasmaネットワークに展開</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>イスラエル、Polymarketでの賭けに関連した機密漏洩を調査</title>
-      <link>https://cb-terminal.dev/ja/topic/b45a3749-d543-4de4-af2f-beaa22d74b6d</link>
-      <description>イスラエル、Polymarketでの賭けに関連した機密漏洩を調査</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin ETFから8.75億ドルの資金流出、Ethereum ETFも3.41億ドルを記録</title>
-      <link>https://cb-terminal.dev/ja/topic/21de0cf4-9857-42eb-8fb5-8fc83bd4f162</link>
-      <description>Bitcoin ETFから8.75億ドルの資金流出、Ethereum ETFも3.41億ドルを記録</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 21:25:57 +0000</lastBuildDate>
     <item>
       <title>Etherfuse、Solana上でトークン化された韓国国債をローンチ</title>
       <link>https://cb-terminal.dev/ja/topic/ed069596-0e55-44ea-b9cb-614a8b464af1</link>
       <description>Etherfuse、Solana上でトークン化された韓国国債をローンチ</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>Arbitrum、DigiFTおよびNashpointと提携しオンチェーンRWAポートフォリオをローンチ</title>
       <link>https://cb-terminal.dev/ja/topic/d2032071-9dc4-4a65-a700-432a208beee5</link>
       <description>Arbitrum、DigiFTおよびNashpointと提携しオンチェーンRWAポートフォリオをローンチ</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>カンザス州、Bitcoin戦略的準備金の創設に向けた法案を提出</title>
       <link>https://cb-terminal.dev/ja/topic/755c9f5e-9ccb-437f-8e1a-c323ba49c33a</link>
       <description>カンザス州、Bitcoin戦略的準備金の創設に向けた法案を提出</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>予測市場、BlackRockのRick Riederが次期Fed議長候補として過去最高の勝率を記録</title>
       <link>https://cb-terminal.dev/ja/topic/98dfc517-15b6-450a-b2cd-ac1ba72dce96</link>
       <description>予測市場、BlackRockのRick Riederが次期Fed議長候補として過去最高の勝率を記録</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>Ethereum L1手数料が過去最低を記録、コントラクトデプロイ数は過去最高に</title>
       <link>https://cb-terminal.dev/ja/topic/0f4851e1-5d06-4202-9b89-01ce89c4ee0c</link>
       <description>Ethereum L1手数料が過去最低を記録、コントラクトデプロイ数は過去最高に</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>MegaETH、インセンティブ付きキャンペーン「Surprises」でトレーダーの注目を集める</title>
       <link>https://cb-terminal.dev/ja/topic/926c8625-481e-4900-8da0-5df8b29e35ae</link>
       <description>MegaETH、インセンティブ付きキャンペーン「Surprises」でトレーダーの注目を集める</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>PwC報告書：機関投資家による仮想通貨採用は「不可逆的」な段階に</title>
       <link>https://cb-terminal.dev/ja/topic/2dbb67d2-7126-49f4-ae2f-dfecbd7e8dda</link>
       <description>PwC報告書：機関投資家による仮想通貨採用は「不可逆的」な段階に</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>Cass Freight Index、7.5%下落しパンデミック時の安値に接近。米経済減速の懸念</title>
       <link>https://cb-terminal.dev/ja/topic/99738566-bcf9-4de0-9765-2844a697af89</link>
       <description>Cass Freight Index、7.5%下落しパンデミック時の安値に接近。米経済減速の懸念</description>
-      <pubDate>Thu, 22 Jan 2026 20:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robinhood Legend、Astar (ASTR) および Lido (LDO) を上場</title>
+      <link>https://cb-terminal.dev/ja/topic/22bb5021-3aad-49a4-b670-4150664d7f6d</link>
+      <description>Robinhood Legend、Astar (ASTR) および Lido (LDO) を上場</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel、第4四半期調整後EPSは予想上回るも、第1四半期見通しはコンセンサス未達</title>
+      <link>https://cb-terminal.dev/ja/topic/a0ec556a-cb0f-4d45-9198-c33c46668bdf</link>
+      <description>Intel、第4四半期調整後EPSは予想上回るも、第1四半期見通しはコンセンサス未達</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abbott Laboratoriesの株価が10%急落、2002年以来最大の下げ幅</title>
+      <link>https://cb-terminal.dev/ja/topic/ba97a7c9-aa7e-4b4c-bb41-aad857b18a3a</link>
+      <description>Abbott Laboratoriesの株価が10%急落、2002年以来最大の下げ幅</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capital One、フィンテック企業 Brex を51.5億ドルで買収へ</title>
+      <link>https://cb-terminal.dev/ja/topic/fe809fa5-c07c-476d-9057-dc03174671f2</link>
+      <description>Capital One、フィンテック企業 Brex を51.5億ドルで買収へ</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel CEO：生産歩留まりが基準未満、旺盛な需要に対し供給が追いつかず</title>
+      <link>https://cb-terminal.dev/ja/topic/39933efd-7743-49dd-8a84-c41993dcc509</link>
+      <description>Intel CEO：生産歩留まりが基準未満、旺盛な需要に対し供給が追いつかず</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>米特使 Steve Witkoff 氏と Jared Kushner 氏、モスクワで Putin 大統領と会談</title>
+      <link>https://cb-terminal.dev/ja/topic/c4c2f942-d4e8-42f7-996f-c7f1a54a1beb</link>
+      <description>米特使 Steve Witkoff 氏と Jared Kushner 氏、モスクワで Putin 大統領と会談</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baseネットワークのステーブルコイン供給量、46億ドルに急増</title>
+      <link>https://cb-terminal.dev/ja/topic/a47fc627-f1dd-40f4-9eb4-1acec9af25c6</link>
+      <description>Baseネットワークのステーブルコイン供給量、46億ドルに急増</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeFi Dev Corp、$DONTにおけるインサイダー取引疑惑を解決</title>
+      <link>https://cb-terminal.dev/ja/topic/cb16f866-5a04-4df3-8c28-f48bdf36767a</link>
+      <description>DeFi Dev Corp、$DONTにおけるインサイダー取引疑惑を解決</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Token Terminal、Binanceと連携した四半期レポートの提供を開始</title>
+      <link>https://cb-terminal.dev/ja/topic/0e80d1e9-e263-40fb-9fe4-f3bbdac07393</link>
+      <description>Token Terminal、Binanceと連携した四半期レポートの提供を開始</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>JPMorgan、Ethereumの長期的回復に慎重な姿勢を示唆</title>
+      <link>https://cb-terminal.dev/ja/topic/122f039f-ca43-4f21-8a21-88ca683b6d91</link>
+      <description>JPMorgan、Ethereumの長期的回復に慎重な姿勢を示唆</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana Prop AMMの1日あたりの取引高、過去最高の40億ドルを記録</title>
+      <link>https://cb-terminal.dev/ja/topic/93052b36-b8ad-4200-a2b5-4147a8b98553</link>
+      <description>Solana Prop AMMの1日あたりの取引高、過去最高の40億ドルを記録</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>6時間サマリー：トランプ氏がJPMorganを50億ドルで提訴、ゴールドは4,900ドルの史上最高値を更新</title>
+      <link>https://cb-terminal.dev/ja/topic/6a3ea7ff-1536-47dc-bf19-4eafc932c08d</link>
+      <description>6時間サマリー：トランプ氏がJPMorganを50億ドルで提訴、ゴールドは4,900ドルの史上最高値を更新</description>
+      <pubDate>Thu, 22 Jan 2026 21:25:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
