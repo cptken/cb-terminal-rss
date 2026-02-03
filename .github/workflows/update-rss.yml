@@ -31,6 +31,9 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull --rebase origin main
         git add cb_terminal.xml
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
+        if ! git diff --quiet --cached; then
+          git commit -m "Update RSS feed"
+          git pull --rebase origin main || true
+          git push origin main
+        fi
