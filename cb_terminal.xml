@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Feb 2026 13:04:26 +0000</lastBuildDate>
-    <item>
-      <title>Bitcoinのボラティリティ継続：清算額は26億ドルを突破、価格は6万ドル付近で乱高下</title>
-      <link>https://cb-terminal.dev/ja/topic/9b35b55d-5bd0-496e-8a8d-6a2d66e097ed</link>
-      <description>Bitcoinのボラティリティ継続：清算額は26億ドルを突破、価格は6万ドル付近で乱高下</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MegaETHエコシステム拡大：Aave、Infinex、deBridgeを統合</title>
-      <link>https://cb-terminal.dev/ja/topic/dbf42617-5b07-4661-9ce9-a94f7d150090</link>
-      <description>MegaETHエコシステム拡大：Aave、Infinex、deBridgeを統合</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance Futures、USD証拠金TRIA無期限先物を上場</title>
-      <link>https://cb-terminal.dev/ja/topic/0085a9c0-3025-4018-9e5e-b3337dcbf022</link>
-      <description>Binance Futures、USD証拠金TRIA無期限先物を上場</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Core メンテナーの Gloria Zhao 氏が退任</title>
-      <link>https://cb-terminal.dev/ja/topic/e7218844-cd65-4b70-80cf-cc36a1311bb7</link>
-      <description>Bitcoin Core メンテナーの Gloria Zhao 氏が退任</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trend Research、ETHのデレバレッジを加速：10時間で3.22億ドル相当を売却、依然として30万ETHを保有</title>
-      <link>https://cb-terminal.dev/ja/topic/ccd3b7a5-093e-44cf-ad65-2918513736bb</link>
-      <description>Trend Research、ETHのデレバレッジを加速：10時間で3.22億ドル相当を売却、依然として30万ETHを保有</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hyperliquid、テストネットでネイティブ予測市場のテストを開始</title>
-      <link>https://cb-terminal.dev/ja/topic/52a572ec-6dac-4c17-9b14-2870e5cb429d</link>
-      <description>Hyperliquid、テストネットでネイティブ予測市場のテストを開始</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>香港金融管理局 (HKMA)、3月にステーブルコインライセンス発行へ：CME GroupとGoogleがトークン化決済を試行</title>
-      <link>https://cb-terminal.dev/ja/topic/ad3cddf0-dd85-47fd-afb5-9cb5ace9552d</link>
-      <description>香港金融管理局 (HKMA)、3月にステーブルコインライセンス発行へ：CME GroupとGoogleがトークン化決済を試行</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MicroStrategy、78億ドルの含み損に直面：量子セキュリティプログラムを計画</title>
-      <link>https://cb-terminal.dev/ja/topic/f1800d6a-6f9d-43f0-af14-f54947f7f423</link>
-      <description>MicroStrategy、78億ドルの含み損に直面：量子セキュリティプログラムを計画</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Felix Protocol、Hyperliquidの「$USDE」ティッカーを4.8万ドルで取得</title>
-      <link>https://cb-terminal.dev/ja/topic/88127cbf-fbbf-4092-8e15-a51fefc5059b</link>
-      <description>Felix Protocol、Hyperliquidの「$USDE」ティッカーを4.8万ドルで取得</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bithumb、従業員が2,000 BTCを誤エアドロップ。価格は10%のディスカウントに</title>
-      <link>https://cb-terminal.dev/ja/topic/a60371fd-7d34-4d4c-b6cb-04d0699454b8</link>
-      <description>Bithumb、従業員が2,000 BTCを誤エアドロップ。価格は10%のディスカウントに</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 14:40:27 +0000</lastBuildDate>
     <item>
       <title>BithumbでBitcoinが55,000ドルまで一時急落</title>
       <link>https://cb-terminal.dev/ja/topic/9d4c8693-7319-44ff-9d44-d7f60f2d2d85</link>
       <description>BithumbでBitcoinが55,000ドルまで一時急落</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Kraken、資産上場を効率化する専用プラットフォーム「Kraken Listings」を立ち上げ</title>
       <link>https://cb-terminal.dev/ja/topic/b54eca56-04e1-404c-ba53-06a84b0e6ed3</link>
       <description>Kraken、資産上場を効率化する専用プラットフォーム「Kraken Listings」を立ち上げ</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>1inch投資ファンド、Binanceから2,000万 1INCHを引き出し</title>
       <link>https://cb-terminal.dev/ja/topic/1c7f865a-c61c-4ba9-ae94-33cf7d2bfce3</link>
       <description>1inch投資ファンド、Binanceから2,000万 1INCHを引き出し</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Cardano創設者Charles Hoskinson、ポートフォリオが30億ドル超減少と報告</title>
       <link>https://cb-terminal.dev/ja/topic/9a987032-3c21-49fd-b099-61beb687d903</link>
       <description>Cardano創設者Charles Hoskinson、ポートフォリオが30億ドル超減少と報告</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Kamino、ONycの預入上限を5,000万ドルに拡大、LTVも引き上げ</title>
       <link>https://cb-terminal.dev/ja/topic/29e1f6a4-06f8-425b-9752-8c32db079c45</link>
       <description>Kamino、ONycの預入上限を5,000万ドルに拡大、LTVも引き上げ</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>米・イラン、オマーンで外交交渉を開始　緊迫した状況が続く</title>
-      <link>https://cb-terminal.dev/ja/topic/ac52b1f5-584b-4a99-a878-2e8025bcc98a</link>
-      <description>米・イラン、オマーンで外交交渉を開始　緊迫した状況が続く</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Polymarket、Solana上でプレIPO先物が開始 評価額130億ドル規模、親会社が「$POLY」商標を申請</title>
       <link>https://cb-terminal.dev/ja/topic/4d7fd7a6-dbb7-4085-8098-525ff0dd420e</link>
       <description>Polymarket、Solana上でプレIPO先物が開始 評価額130億ドル規模、親会社が「$POLY」商標を申請</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Stellantis ($STLA) 株価が27%急落、EV事業で260億ドルの減損処理を発表</title>
       <link>https://cb-terminal.dev/ja/topic/0b341c8f-0be2-4937-b4cc-fb429148fa6b</link>
       <description>Stellantis ($STLA) 株価が27%急落、EV事業で260億ドルの減損処理を発表</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
       <title>中国人民銀行ら9部門、仮想通貨取引とRWA活動を全面禁止</title>
       <link>https://cb-terminal.dev/ja/topic/92d2cf85-e67a-4412-acea-0c64af9bf3e2</link>
       <description>中国人民銀行ら9部門、仮想通貨取引とRWA活動を全面禁止</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
-      <title>中国、海外での未承認の人民元連動ステーブルコイン発行を禁止</title>
+      <title>中国、未承認の海外人民元連動型ステーブルコインの発行を禁止</title>
       <link>https://cb-terminal.dev/ja/topic/d174d9e5-c894-4e20-a4d3-d23331953876</link>
-      <description>中国、海外での未承認の人民元連動ステーブルコイン発行を禁止</description>
-      <pubDate>Fri, 06 Feb 2026 13:04:26 +0000</pubDate>
+      <description>中国、未承認の海外人民元連動型ステーブルコインの発行を禁止</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana Mobileの$SKRトークン、エコシステム統合を受けて急騰</title>
+      <link>https://cb-terminal.dev/ja/topic/89a180b3-684a-4c73-8042-f34a016fbc23</link>
+      <description>Solana Mobileの$SKRトークン、エコシステム統合を受けて急騰</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOL価格の急落を受け、Solanaエコシステムのトレジャリーが資産減少に直面</title>
+      <link>https://cb-terminal.dev/ja/topic/b4c2a96c-fe02-4f2d-8d4f-219fe3894556</link>
+      <description>SOL価格の急落を受け、Solanaエコシステムのトレジャリーが資産減少に直面</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackRock、4.6億ドル超のBTCとETHをCoinbase Primeへ送金</title>
+      <link>https://cb-terminal.dev/ja/topic/ca343065-dbfe-42e0-a9fb-c76218b98b4c</link>
+      <description>BlackRock、4.6億ドル超のBTCとETHをCoinbase Primeへ送金</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARK Invest、Coinbase株を売却しBullishへ資金を再配分</title>
+      <link>https://cb-terminal.dev/ja/topic/f0e4b6f7-913b-4e63-9612-c21bcd7ab2c9</link>
+      <description>ARK Invest、Coinbase株を売却しBullishへ資金を再配分</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>市場下落の中、TetherとCircleが47.5億ドルのステーブルコインを発行</title>
+      <link>https://cb-terminal.dev/ja/topic/55f5de4d-b1ff-45a5-bcd0-f9483423f8c9</link>
+      <description>市場下落の中、TetherとCircleが47.5億ドルのステーブルコインを発行</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>カナダ1月の雇用者数2.48万人減、失業率は予想下回る6.5%</title>
+      <link>https://cb-terminal.dev/ja/topic/02630020-85d9-41cd-96c3-fc1d70830e27</link>
+      <description>カナダ1月の雇用者数2.48万人減、失業率は予想下回る6.5%</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tether、t-0 Networkへ出資　USDT決済インフラの強化へ</title>
+      <link>https://cb-terminal.dev/ja/topic/5eb921fc-39cc-4133-aad1-a78bb8849735</link>
+      <description>Tether、t-0 Networkへ出資　USDT決済インフラの強化へ</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ripple、XRPLにおける機関投資家向けDeFiの構想を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/d613cfd9-a2c0-41a8-b3f1-685943b4dc0a</link>
+      <description>Ripple、XRPLにおける機関投資家向けDeFiの構想を発表</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>米イラン外交会談がオマーンで終了；市場センチメントは安定化</title>
+      <link>https://cb-terminal.dev/ja/topic/ac52b1f5-584b-4a99-a878-2e8025bcc98a</link>
+      <description>米イラン外交会談がオマーンで終了；市場センチメントは安定化</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trend Research、30,000 ETHの追加入金でデレバレッジ加速；MARAもBTCを移動</title>
+      <link>https://cb-terminal.dev/ja/topic/93b5dcf5-a46f-4db3-9343-28be566f5146</link>
+      <description>Trend Research、30,000 ETHの追加入金でデレバレッジ加速；MARAもBTCを移動</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロシアの銀行が仮想通貨担保ローンを導入：Sovcombankに続きSberbankも参入へ</title>
+      <link>https://cb-terminal.dev/ja/topic/a313273d-3574-4bca-914f-e44f6f38c280</link>
+      <description>ロシアの銀行が仮想通貨担保ローンを導入：Sovcombankに続きSberbankも参入へ</description>
+      <pubDate>Fri, 06 Feb 2026 14:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
