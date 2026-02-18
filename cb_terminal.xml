@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Feb 2026 11:39:31 +0000</lastBuildDate>
-    <item>
-      <title>Polymarket、2月18日よりスポーツ市場に取引手数料を導入</title>
-      <link>https://cb-terminal.dev/ja/topic/353d87b0-0c9b-4c5b-acec-72530323abf0</link>
-      <description>Polymarket、2月18日よりスポーツ市場に取引手数料を導入</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：Bitwiseが予測市場ETFを申請、MoonwellがAIコードの脆弱性により流出被害</title>
-      <link>https://cb-terminal.dev/ja/topic/38e62647-593d-426e-939e-eadd1514db4b</link>
-      <description>6時間サマリー：Bitwiseが予測市場ETFを申請、MoonwellがAIコードの脆弱性により流出被害</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>アーサー・ヘイズ氏、BitcoinとNasdaqの乖離からドル流動性リスクを警告</title>
-      <link>https://cb-terminal.dev/ja/topic/d229bb4c-e54e-4547-bead-7a157ce9c227</link>
-      <description>アーサー・ヘイズ氏、BitcoinとNasdaqの乖離からドル流動性リスクを警告</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国ビットコイン現物ETF、1.05億ドルの純流出を記録　イーサリアムETFは流入に転じる</title>
-      <link>https://cb-terminal.dev/ja/topic/1ae0f2fc-a6f2-4887-b464-00a2c91b304e</link>
-      <description>米国ビットコイン現物ETF、1.05億ドルの純流出を記録　イーサリアムETFは流入に転じる</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ロシア、今夏にも海外仮想通貨取引所へのアクセスを遮断する可能性</title>
-      <link>https://cb-terminal.dev/ja/topic/80706324-6b9f-4ef1-ac1d-416e45964494</link>
-      <description>ロシア、今夏にも海外仮想通貨取引所へのアクセスを遮断する可能性</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZachXBT、Liquid Marketplaceによるトークン完売の捏造疑惑を暴露</title>
-      <link>https://cb-terminal.dev/ja/topic/e800a949-69fa-4ccd-942d-d0a037681d8e</link>
-      <description>ZachXBT、Liquid Marketplaceによるトークン完売の捏造疑惑を暴露</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>DefiDevCorp、配当担保型ステーブルコイン「Apyx_fi」を発表</title>
-      <link>https://cb-terminal.dev/ja/topic/761d6740-8d9f-4cab-91f8-daf64ccf860e</link>
-      <description>DefiDevCorp、配当担保型ステーブルコイン「Apyx_fi」を発表</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ECB、ラガルド総裁の早期退任報道を否定</title>
-      <link>https://cb-terminal.dev/ja/topic/9f477e2a-6316-44d3-a24a-845555549f9c</link>
-      <description>ECB、ラガルド総裁の早期退任報道を否定</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>自律型AIエージェントが短期アルファを駆逐するか：トレーダーらが議論</title>
-      <link>https://cb-terminal.dev/ja/topic/2c2d97e6-eb4d-4802-b6f5-cee99112e089</link>
-      <description>自律型AIエージェントが短期アルファを駆逐するか：トレーダーらが議論</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ウォール街、予測市場ETFを申請　世界的な規制の乖離が鮮明に</title>
-      <link>https://cb-terminal.dev/ja/topic/aa4c81ae-f568-419e-b74c-94945be412e4</link>
-      <description>ウォール街、予測市場ETFを申請　世界的な規制の乖離が鮮明に</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>1月英CPIは前年比3.0%で予想一致、コアCPIは予想をわずかに上回る</title>
-      <link>https://cb-terminal.dev/ja/topic/ab2466af-d774-4b69-bac9-48922815be02</link>
-      <description>1月英CPIは前年比3.0%で予想一致、コアCPIは予想をわずかに上回る</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 13:09:38 +0000</lastBuildDate>
     <item>
       <title>2月17日のビットコイン現物ETFは1.05億ドルの純流出、イーサリアム現物ETFは流入を記録</title>
       <link>https://cb-terminal.dev/ja/topic/3af5dad2-36ea-460c-87d1-f25fc0a8dfe6</link>
       <description>2月17日のビットコイン現物ETFは1.05億ドルの純流出、イーサリアム現物ETFは流入を記録</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Hyperliquid HIP-3 ティッカー更新：$HYUNDAIが21,518ドルで購入される</title>
       <link>https://cb-terminal.dev/ja/topic/3b1c216c-95ed-48a9-a049-8d7cd31f91e4</link>
       <description>Hyperliquid HIP-3 ティッカー更新：$HYUNDAIが21,518ドルで購入される</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>アブダビ政府系ファンド、BTC保有量を46%増加　ポートフォリオ第2位の資産に</title>
       <link>https://cb-terminal.dev/ja/topic/87f63594-5b2a-4be8-8d9c-2d783021e07e</link>
       <description>アブダビ政府系ファンド、BTC保有量を46%増加　ポートフォリオ第2位の資産に</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>6時間の暗号資産市場サマリー：アブダビ政府系ファンドがBTC配分を増強、ETFはBTCからETHへの資金ローテーションが鮮明に</title>
       <link>https://cb-terminal.dev/ja/topic/b96f95f2-3018-4780-9097-5fedd104701f</link>
       <description>6時間の暗号資産市場サマリー：アブダビ政府系ファンドがBTC配分を増強、ETFはBTCからETHへの資金ローテーションが鮮明に</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Bitwise、2028年米国大統領選挙に連動する予測市場ETFを申請</title>
       <link>https://cb-terminal.dev/ja/topic/f5d29079-5768-406f-a500-1dc09bd9cdc8</link>
       <description>Bitwise、2028年米国大統領選挙に連動する予測市場ETFを申請</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Founders Fund、ETH財務管理企業 ETHZillan のポジションを解消か</title>
       <link>https://cb-terminal.dev/ja/topic/d4707a45-8b41-4845-9fce-467194788e39</link>
       <description>Founders Fund、ETH財務管理企業 ETHZillan のポジションを解消か</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Nansen、高収益な「Smart Money」トレーダーのランキングを公開</title>
       <link>https://cb-terminal.dev/ja/topic/88ad074c-0df4-4f90-9aec-ddc3f766d555</link>
       <description>Nansen、高収益な「Smart Money」トレーダーのランキングを公開</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Elemental Royalty、上場企業として初めてTether Gold (XAU₮)での配当支払いを発表</title>
       <link>https://cb-terminal.dev/ja/topic/012a6671-b73c-4859-88d6-3b4799a8921b</link>
       <description>Elemental Royalty、上場企業として初めてTether Gold (XAU₮)での配当支払いを発表</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
     <item>
       <title>ウクライナとロシア、ジュネーブ和平交渉で建設的な進展を報告；米国が停戦監視の可能性</title>
       <link>https://cb-terminal.dev/ja/topic/6432cf9d-1dd5-4f05-b807-2348031513e5</link>
       <description>ウクライナとロシア、ジュネーブ和平交渉で建設的な進展を報告；米国が停戦監視の可能性</description>
-      <pubDate>Wed, 18 Feb 2026 11:39:31 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>米国、中東に輸送機150機と戦闘機50機を配備　対イラン緊張高まる</title>
+      <link>https://cb-terminal.dev/ja/topic/262c8ba9-b2c5-4f5f-b403-c77c8772dace</link>
+      <description>米国、中東に輸送機150機と戦闘機50機を配備　対イラン緊張高まる</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mantleキャンペーン、AAVEステーブルコイン利回りを20%超に押し上げ</title>
+      <link>https://cb-terminal.dev/ja/topic/59dea2cd-2ab6-4766-a6e5-96c3fdb0b4ad</link>
+      <description>Mantleキャンペーン、AAVEステーブルコイン利回りを20%超に押し上げ</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>カリフォルニア州、デジタル金融資産法（DFAL）に基づく仮想通貨ライセンスの執行を開始</title>
+      <link>https://cb-terminal.dev/ja/topic/da475c44-6ad6-4b73-b3f0-7dd8a3c36bf3</link>
+      <description>カリフォルニア州、デジタル金融資産法（DFAL）に基づく仮想通貨ライセンスの執行を開始</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grayscale Sui Staking ETF、NYSE Arcaでの取引開始へ</title>
+      <link>https://cb-terminal.dev/ja/topic/c13ab422-69eb-4668-ba3c-ea6747e5880f</link>
+      <description>Grayscale Sui Staking ETF、NYSE Arcaでの取引開始へ</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ark Invest、690万ドルのCoinbase株式購入で買い増しを再開</title>
+      <link>https://cb-terminal.dev/ja/topic/debd431e-8ccd-4234-a399-e679bbe843b8</link>
+      <description>Ark Invest、690万ドルのCoinbase株式購入で買い増しを再開</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios：米イラン戦争が「切迫」、イスラエルは開戦準備</title>
+      <link>https://cb-terminal.dev/ja/topic/546b5074-708f-413c-95e2-08f36dc6233b</link>
+      <description>Axios：米イラン戦争が「切迫」、イスラエルは開戦準備</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tether Gold (XAUT) が配当メカニズムを導入、時価総額は25.5億ドルを突破</title>
+      <link>https://cb-terminal.dev/ja/topic/7a10fcc2-8d3d-44ef-8f0c-58f01a195e59</link>
+      <description>Tether Gold (XAUT) が配当メカニズムを導入、時価総額は25.5億ドルを突破</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fundstrat、ETHの追加購入により保有額が87億ドルに到達</title>
+      <link>https://cb-terminal.dev/ja/topic/37054bb0-9b1d-4769-8eff-e44c9d2f209a</link>
+      <description>Fundstrat、ETHの追加購入により保有額が87億ドルに到達</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>仮想通貨市場、2022年弱気相場以来の最大規模の資金流出を記録</title>
+      <link>https://cb-terminal.dev/ja/topic/b0f3a0e0-007c-4e89-adfa-ea357e000b39</link>
+      <description>仮想通貨市場、2022年弱気相場以来の最大規模の資金流出を記録</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moonwell、オラクルの設定ミスとAIコードの欠陥により約180万ドルの損失</title>
+      <link>https://cb-terminal.dev/ja/topic/5c5f8f11-7f44-4e2f-aee3-df5fd860f61e</link>
+      <description>Moonwell、オラクルの設定ミスとAIコードの欠陥により約180万ドルの損失</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>BitwiseとGraniteShares、予測市場ETFの組成に向け申請書類を提出</title>
+      <link>https://cb-terminal.dev/ja/topic/02d4cd54-59a6-42df-b0a8-15d8cc50ebcf</link>
+      <description>BitwiseとGraniteShares、予測市場ETFの組成に向け申請書類を提出</description>
+      <pubDate>Wed, 18 Feb 2026 13:09:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
