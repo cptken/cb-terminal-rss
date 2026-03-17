@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Mar 2026 23:33:56 +0000</lastBuildDate>
-    <item>
-      <title>【更新】NVIDIA、Vera Rubinプラットフォーム発表とGroq 3量産開始を発表、株価は激しく乱高下</title>
-      <link>https://cb-terminal.dev/ja/topic/c0188a61-3010-4268-9d8d-37a164c66e85</link>
-      <description>【更新】NVIDIA、Vera Rubinプラットフォーム発表とGroq 3量産開始を発表、株価は激しく乱高下</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>中東紛争が激化、バグダッド大使館への攻撃と外交努力が交錯</title>
-      <link>https://cb-terminal.dev/ja/topic/9713b620-e28c-403a-a933-07197bad51d0</link>
-      <description>中東紛争が激化、バグダッド大使館への攻撃と外交努力が交錯</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia、OpenClawへのサポートを正式発表</title>
-      <link>https://cb-terminal.dev/ja/topic/87b62f2a-6340-4e8a-9c54-0c4471aada8b</link>
-      <description>Nvidia、OpenClawへのサポートを正式発表</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、予想される株価下落を「高度なチェスゲーム」と表現</title>
-      <link>https://cb-terminal.dev/ja/topic/aebebe84-98a7-4196-82ef-61c4a2c82bf3</link>
-      <description>トランプ大統領、予想される株価下落を「高度なチェスゲーム」と表現</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、北京訪問の1ヶ月延期を要請</title>
-      <link>https://cb-terminal.dev/ja/topic/c1e29a3e-597f-4ebd-9836-046b71f1b92d</link>
-      <description>トランプ大統領、北京訪問の1ヶ月延期を要請</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>HyperliquidでHYPEが40ドルを突破、2025年11月以来の高値</title>
-      <link>https://cb-terminal.dev/ja/topic/33bfdeec-ae92-4e7f-bbd0-6916e1f486ae</link>
-      <description>HyperliquidでHYPEが40ドルを突破、2025年11月以来の高値</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【更新3】トランプ大統領、イラン紛争終結の見通し・ホルムズ海峡リスク・関税再編に言及</title>
-      <link>https://cb-terminal.dev/ja/topic/f00da314-52f8-4aa1-a881-531538f20dfc</link>
-      <description>【更新3】トランプ大統領、イラン紛争終結の見通し・ホルムズ海峡リスク・関税再編に言及</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polymarket、1400万ドルの予測市場を巡り脅迫を行ったユーザーを永久追放</title>
-      <link>https://cb-terminal.dev/ja/topic/3bb89e88-676d-428e-87cd-20f5caa0f830</link>
-      <description>Polymarket、1400万ドルの予測市場を巡り脅迫を行ったユーザーを永久追放</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tether、8.1万ドル相当のUSDTをブラックリスト登録および破棄</title>
-      <link>https://cb-terminal.dev/ja/topic/b31d3f95-fccb-410c-8bc2-619a1331a5e6</link>
-      <description>Tether、8.1万ドル相当のUSDTをブラックリスト登録および破棄</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：SECが四半期報告の廃止を検討、NVIDIAは売上高1兆ドルを予測</title>
-      <link>https://cb-terminal.dev/ja/topic/6248b35b-62ac-4c76-bb5e-60f2204596e3</link>
-      <description>6時間サマリー：SECが四半期報告の廃止を検討、NVIDIAは売上高1兆ドルを予測</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini、事業再編により2025年に約6億ドルの純損失を予測</title>
-      <link>https://cb-terminal.dev/ja/topic/d2f5e69c-e208-49b2-a523-aa95f9ea78c2</link>
-      <description>Gemini、事業再編により2025年に約6億ドルの純損失を予測</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 02:23:06 +0000</lastBuildDate>
     <item>
       <title>24時間サマリー：Bitcoinが7.4万ドルを突破、SECは規制方針転換を検討</title>
       <link>https://cb-terminal.dev/ja/topic/3b5a2e79-2eef-455d-801a-853673fab8b6</link>
       <description>24時間サマリー：Bitcoinが7.4万ドルを突破、SECは規制方針転換を検討</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>ドイツ・日本・豪州、ホルムズ海峡での米軍事行動への不参加を表明</title>
       <link>https://cb-terminal.dev/ja/topic/4c9597f8-6ff8-44cb-a07e-cbbdd5565cd3</link>
       <description>ドイツ・日本・豪州、ホルムズ海峡での米軍事行動への不参加を表明</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>トランプ大統領、キューバ掌握の意向を表明</title>
       <link>https://cb-terminal.dev/ja/topic/3d93da41-af1d-4580-8e15-8efa63c671ce</link>
       <description>トランプ大統領、キューバ掌握の意向を表明</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>OpenSea、独自トークン「SEA」のローンチを無期限延期</title>
       <link>https://cb-terminal.dev/ja/topic/9b64c412-a95b-4f79-be20-20cc7ca8f544</link>
       <description>OpenSea、独自トークン「SEA」のローンチを無期限延期</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>中東情勢の緊張続く、外交バックチャネルを巡り報道が交錯</title>
       <link>https://cb-terminal.dev/ja/topic/0075cc77-4fe6-4c32-add7-40a06ecd376e</link>
       <description>中東情勢の緊張続く、外交バックチャネルを巡り報道が交錯</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>米国、キューバ大統領の辞任を要求 協議進展の条件として</title>
       <link>https://cb-terminal.dev/ja/topic/cfd627d2-3ca4-48bd-99b9-fc3a19997164</link>
       <description>米国、キューバ大統領の辞任を要求 協議進展の条件として</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>仮想通貨市場で5億5,000万ドル超が清算</title>
       <link>https://cb-terminal.dev/ja/topic/2db39275-6f31-4fde-8806-91468ec7fc56</link>
       <description>仮想通貨市場で5億5,000万ドル超が清算</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>金融庁、無登録の暗号資産販売への罰則を大幅強化へ</title>
       <link>https://cb-terminal.dev/ja/topic/27bc6219-4c8e-46b6-a257-b0dae5dbb723</link>
       <description>金融庁、無登録の暗号資産販売への罰則を大幅強化へ</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
     <item>
       <title>中東情勢が緊迫：米軍がハルク島を攻撃、バンダレ・アッバースでも爆発　金価格は5,000ドル目前</title>
       <link>https://cb-terminal.dev/ja/topic/c23f86bd-da11-4449-b89e-2bb5c758e07d</link>
       <description>中東情勢が緊迫：米軍がハルク島を攻撃、バンダレ・アッバースでも爆発　金価格は5,000ドル目前</description>
-      <pubDate>Mon, 16 Mar 2026 23:33:56 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>イーロン・マスク、OpenAI訴訟の勝訴金最大1,350億ドルを全額寄付へ</title>
+      <link>https://cb-terminal.dev/ja/topic/3fe3695b-d953-4e4b-a67f-305cc596f33a</link>
+      <description>イーロン・マスク、OpenAI訴訟の勝訴金最大1,350億ドルを全額寄付へ</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ethereum Foundation、13秒でのファイナリティを実現する高速確認ルールを示唆</title>
+      <link>https://cb-terminal.dev/ja/topic/2fa466cc-1c71-482b-b3b6-77403783d9c9</link>
+      <description>Ethereum Foundation、13秒でのファイナリティを実現する高速確認ルールを示唆</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領、ホルムズ海峡での米軍保護に疑問：石油輸入の1%未満</title>
+      <link>https://cb-terminal.dev/ja/topic/519b1594-26b7-4825-b58e-4412f3a8ae46</link>
+      <description>トランプ大統領、ホルムズ海峡での米軍保護に疑問：石油輸入の1%未満</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ビットコイン、75,000ドル台を回復</title>
+      <link>https://cb-terminal.dev/ja/topic/211039fb-dfc1-4732-a1e8-f25c72060f54</link>
+      <description>ビットコイン、75,000ドル台を回復</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>PRL、Coinbaseの上場ロードマップに追加</title>
+      <link>https://cb-terminal.dev/ja/topic/90ba8801-ad73-4276-ae4d-11e38d17ed4f</link>
+      <description>PRL、Coinbaseの上場ロードマップに追加</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Digital、1.44億ドル相当のHYPEを正体不明のウォレット群へ送金</title>
+      <link>https://cb-terminal.dev/ja/topic/3f93f195-2e9d-4406-be2b-a236d197dab6</link>
+      <description>Galaxy Digital、1.44億ドル相当のHYPEを正体不明のウォレット群へ送金</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【続報2】地政学リスク激化：UAE石油施設と米大使館にドローン攻撃、ブレント原油は102ドル突破</title>
+      <link>https://cb-terminal.dev/ja/topic/118a6226-4e48-4702-b39d-703d10cde561</link>
+      <description>【続報2】地政学リスク激化：UAE石油施設と米大使館にドローン攻撃、ブレント原油は102ドル突破</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>日銀と財務省、財政規律を強調—過度なインフレ阻止へ</title>
+      <link>https://cb-terminal.dev/ja/topic/c47929de-56d2-4573-8c20-a441220930b0</link>
+      <description>日銀と財務省、財政規律を強調—過度なインフレ阻止へ</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA、宇宙データセンター構想を発表 — 地上の制約を回避</title>
+      <link>https://cb-terminal.dev/ja/topic/d27e74aa-d6ef-4416-b2ac-0ff6af8eac19</link>
+      <description>NVIDIA、宇宙データセンター構想を発表 — 地上の制約を回避</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新 8】米・イスラエルとイランが大規模な報復応酬、中東全域に紛争拡大：IDFはベイルートのHezbollahを攻撃</title>
+      <link>https://cb-terminal.dev/ja/topic/12b3160f-ad4a-4fb9-9195-7fa2bf365818</link>
+      <description>【更新 8】米・イスラエルとイランが大規模な報復応酬、中東全域に紛争拡大：IDFはベイルートのHezbollahを攻撃</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bloomberg、原油価格の参照元にHyperliquidを採用　高速な価格発見を評価</title>
+      <link>https://cb-terminal.dev/ja/topic/d243a745-4363-4fe0-8088-5489b32ace36</link>
+      <description>Bloomberg、原油価格の参照元にHyperliquidを採用　高速な価格発見を評価</description>
+      <pubDate>Tue, 17 Mar 2026 02:23:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
