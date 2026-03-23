@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Mar 2026 05:04:44 +0000</lastBuildDate>
-    <item>
-      <title>金価格、数十年ぶりの大幅下落を経て反発</title>
-      <link>https://cb-terminal.dev/ja/topic/2c515363-8ba4-47ac-bba2-dbb556810315</link>
-      <description>金価格、数十年ぶりの大幅下落を経て反発</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡封鎖で米ガソリン価格が30%超急騰</title>
-      <link>https://cb-terminal.dev/ja/topic/7d846933-e62b-4508-9f92-8d1fd6ede157</link>
-      <description>ホルムズ海峡封鎖で米ガソリン価格が30%超急騰</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>アジア株が全面安：地政学的緊張でKOSPI 6%下落、日経平均は51,000円割れ</title>
-      <link>https://cb-terminal.dev/ja/topic/60b18474-d90a-4329-8b52-08caf6bfe929</link>
-      <description>アジア株が全面安：地政学的緊張でKOSPI 6%下落、日経平均は51,000円割れ</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[速報] 米軍が中東へ部隊派遣、イラン施設を空爆　トランプ大統領の最終通告期限迫る</title>
-      <link>https://cb-terminal.dev/ja/topic/324d0ed0-da4e-45b2-a9a3-43ffadb74f41</link>
-      <description>[速報] 米軍が中東へ部隊派遣、イラン施設を空爆　トランプ大統領の最終通告期限迫る</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>貴金属が急落：金価格は4,350ドルを割り込み暴落、銀も4%安の展開</title>
-      <link>https://cb-terminal.dev/ja/topic/95ac0722-ff1c-49d3-8358-f81e859db40e</link>
-      <description>貴金属が急落：金価格は4,350ドルを割り込み暴落、銀も4%安の展開</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>OKX、MONの現物取引を開始</title>
-      <link>https://cb-terminal.dev/ja/topic/c233caed-fc12-4f4f-a963-aa7a089d500e</link>
-      <description>OKX、MONの現物取引を開始</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>IEA事務局長、現在のエネルギー危機は1970年代のオイルショックを凌ぐと警告</title>
-      <link>https://cb-terminal.dev/ja/topic/5aee8bf5-6c32-4b34-8f04-c785cd541ff2</link>
-      <description>IEA事務局長、現在のエネルギー危機は1970年代のオイルショックを凌ぐと警告</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOSの暗号資産ウォレットを狙うマルウェア「GhostClaw」出現、偽npmパッケージを介して感染</title>
-      <link>https://cb-terminal.dev/ja/topic/6566ae3f-0304-4830-9604-20e4c3bf0e02</link>
-      <description>macOSの暗号資産ウォレットを狙うマルウェア「GhostClaw」出現、偽npmパッケージを介して感染</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backpack、TGEを前に「Big Day」を予告し報酬サマリーを公開</title>
-      <link>https://cb-terminal.dev/ja/topic/91858934-d995-423b-a189-b0d42f6f601f</link>
-      <description>Backpack、TGEを前に「Big Day」を予告し報酬サマリーを公開</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>$SIRENマーケットメイカーが供給量の最大88.5%を支配、Binanceで価格が急落</title>
-      <link>https://cb-terminal.dev/ja/topic/251c2acf-886b-4165-9239-97862b8f0b9f</link>
-      <description>$SIRENマーケットメイカーが供給量の最大88.5%を支配、Binanceで価格が急落</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>SPY ETFの取引高が14億ドルに到達、2026年の最高値を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/7fc07ea4-52d3-4d40-9a9f-726d80820b9b</link>
-      <description>SPY ETFの取引高が14億ドルに到達、2026年の最高値を記録</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 07:13:56 +0000</lastBuildDate>
     <item>
       <title>タイのTFEX、銀先物取引を一時停止。価格暴落の一方でJane Streetが保有拡大</title>
       <link>https://cb-terminal.dev/ja/topic/0f85e323-10d1-4b3e-a4b2-e47c0633a98a</link>
       <description>タイのTFEX、銀先物取引を一時停止。価格暴落の一方でJane Streetが保有拡大</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>【更新】IEA、中東紛争で少なくとも40のエネルギー資産に影響と報告</title>
       <link>https://cb-terminal.dev/ja/topic/78527f07-c262-48cd-bd78-3a2a529eb4dd</link>
       <description>【更新】IEA、中東紛争で少なくとも40のエネルギー資産に影響と報告</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>Polymarket、2026年のFRB利上げ予想確率が25%に上昇</title>
       <link>https://cb-terminal.dev/ja/topic/b95f5cdc-984c-4252-ba0e-1c6cc12f2973</link>
       <description>Polymarket、2026年のFRB利上げ予想確率が25%に上昇</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>カタール、イラン紛争によるヘリウム輸出崩壊の危機を警告</title>
       <link>https://cb-terminal.dev/ja/topic/8c5aa633-ea37-40ec-8765-5765d0fa38f3</link>
       <description>カタール、イラン紛争によるヘリウム輸出崩壊の危機を警告</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>6時間サマリー：中東情勢の緊迫化と金価格の歴史的暴落を受け、BTCが6.8万ドルを割り込む</title>
       <link>https://cb-terminal.dev/ja/topic/db1991ea-9349-41a2-af7a-637c5d9b9cd1</link>
       <description>6時間サマリー：中東情勢の緊迫化と金価格の歴史的暴落を受け、BTCが6.8万ドルを割り込む</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゴールド、正式に弱気相場入り　史上最高値から22％下落</title>
-      <link>https://cb-terminal.dev/ja/topic/27919f79-1bb1-4ef3-8612-e2e3ef47ac4a</link>
-      <description>ゴールド、正式に弱気相場入り　史上最高値から22％下落</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>仮想通貨市場、24時間で5億5,700万ドル超が清算</title>
       <link>https://cb-terminal.dev/ja/topic/067b2b58-fa14-426b-b8a4-c075fa0a381e</link>
       <description>仮想通貨市場、24時間で5億5,700万ドル超が清算</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
       <title>日本、ホルムズ海峡への自衛隊派遣を検討か 掃海活動目的で</title>
       <link>https://cb-terminal.dev/ja/topic/4606c91a-7798-4cbb-a251-5ab2227a8c62</link>
       <description>日本、ホルムズ海峡への自衛隊派遣を検討か 掃海活動目的で</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
     <item>
-      <title>[Update 2] イスラエル軍、テヘランとキャラジを空爆　UAEとサウジアラビアはミサイルを迎撃</title>
+      <title>[更新] オーストラリア、燃料配給の即時制限を否定</title>
+      <link>https://cb-terminal.dev/ja/topic/3da4d891-5b11-44bf-96d1-7bde5ba54190</link>
+      <description>[更新] オーストラリア、燃料配給の即時制限を否定</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ラガーディア空港、航空機と消防車の衝突事故により閉鎖 死傷者多数</title>
+      <link>https://cb-terminal.dev/ja/topic/9ca059e6-43e6-4593-82ea-b82d01cd5962</link>
+      <description>ラガーディア空港、航空機と消防車の衝突事故により閉鎖 死傷者多数</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Binance創設者のCZ氏、Bitcoinを「ハードアセット」と明言</title>
+      <link>https://cb-terminal.dev/ja/topic/d7a1a174-85b4-4932-af58-ab14ce7b5ff9</link>
+      <description>Binance創設者のCZ氏、Bitcoinを「ハードアセット」と明言</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aster、ASTERトークンの第6段階戦略的バイバックを開始</title>
+      <link>https://cb-terminal.dev/ja/topic/9b727b82-5909-415e-9e30-e4f54deaa6fa</link>
+      <description>Aster、ASTERトークンの第6段階戦略的バイバックを開始</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新】ResolvのUSRがハッキング被害で63%暴落、KyberSwapは攻撃者ウォレットを遮断</title>
+      <link>https://cb-terminal.dev/ja/topic/5e42e986-c9aa-49ba-adf9-8814181c6b22</link>
+      <description>【更新】ResolvのUSRがハッキング被害で63%暴落、KyberSwapは攻撃者ウォレットを遮断</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[速報] イラン最高指導者に負傷報道、エネルギー供給懸念が拡大</title>
+      <link>https://cb-terminal.dev/ja/topic/496a46c9-01af-4c04-965a-f215e14b0d32</link>
+      <description>[速報] イラン最高指導者に負傷報道、エネルギー供給懸念が拡大</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>貴金属が急落：金価格は4,306ドルまで暴落、銀も5%超の下落</title>
+      <link>https://cb-terminal.dev/ja/topic/95ac0722-ff1c-49d3-8358-f81e859db40e</link>
+      <description>貴金属が急落：金価格は4,306ドルまで暴落、銀も5%超の下落</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tokio Marine、Berkshire Hathawayに2,874億円相当の株式を売却へ</title>
+      <link>https://cb-terminal.dev/ja/topic/6a398698-d030-4af2-b066-58ceff19dc33</link>
+      <description>Tokio Marine、Berkshire Hathawayに2,874億円相当の株式を売却へ</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>米イラン衝突が激化：トランプ大統領が48時間の最後通牒、市場に波及</title>
+      <link>https://cb-terminal.dev/ja/topic/efa914ce-fd63-4675-96d4-9e59b70f4af9</link>
+      <description>米イラン衝突が激化：トランプ大統領が48時間の最後通牒、市場に波及</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backpack、トークン割当確認ページを公開、ユーティリティも発表</title>
+      <link>https://cb-terminal.dev/ja/topic/c8e29c23-165e-416a-9b91-9ebf6053346b</link>
+      <description>Backpack、トークン割当確認ページを公開、ユーティリティも発表</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[更新 4] 中東情勢が緊迫：テヘランで大規模停電、イランがカタールのガス施設を攻撃</title>
       <link>https://cb-terminal.dev/ja/topic/272d5deb-40ca-481b-95aa-64f24742ba46</link>
-      <description>[Update 2] イスラエル軍、テヘランとキャラジを空爆　UAEとサウジアラビアはミサイルを迎撃</description>
-      <pubDate>Mon, 23 Mar 2026 05:04:44 +0000</pubDate>
+      <description>[更新 4] 中東情勢が緊迫：テヘランで大規模停電、イランがカタールのガス施設を攻撃</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>貴金属市場が暴落：金は25%安の4,161ドル、銀は50%急落</title>
+      <link>https://cb-terminal.dev/ja/topic/27919f79-1bb1-4ef3-8612-e2e3ef47ac4a</link>
+      <description>貴金属市場が暴落：金は25%安の4,161ドル、銀は50%急落</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>原油が110ドルに急騰、イランへの最後通牒を前に世界市場が急落</title>
+      <link>https://cb-terminal.dev/ja/topic/3e6b8cea-d7d3-42d7-9e5f-14d1a10b67ca</link>
+      <description>原油が110ドルに急騰、イランへの最後通牒を前に世界市場が急落</description>
+      <pubDate>Mon, 23 Mar 2026 07:13:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
