@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:04:54 +0000</lastBuildDate>
-    <item>
-      <title>Coinbase、Chainlink DataLink経由で取引所データをオンチェーンに提供</title>
-      <link>https://cb-terminal.dev/ja/topic/cf1e3b96-424e-4d7f-9911-8800cacb69a5</link>
-      <description>Coinbase、Chainlink DataLink経由で取引所データをオンチェーンに提供</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance、ソフトステーキングプログラムにEthereumを追加</title>
-      <link>https://cb-terminal.dev/ja/topic/c14fe9d8-6199-4477-b174-136c4e7e285e</link>
-      <description>Binance、ソフトステーキングプログラムにEthereumを追加</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manifest DEX、第1四半期に取引高92億ドルを記録、RWA成長が牽引</title>
-      <link>https://cb-terminal.dev/ja/topic/693250de-8c66-4b8d-a3f3-0640e479c31a</link>
-      <description>Manifest DEX、第1四半期に取引高92億ドルを記録、RWA成長が牽引</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、AI・技術諮問会議を設置　仮想通貨業界の有力者らも参画</title>
-      <link>https://cb-terminal.dev/ja/topic/e42a8418-1631-4ce5-9b32-f2a034a9a318</link>
-      <description>トランプ大統領、AI・技術諮問会議を設置　仮想通貨業界の有力者らも参画</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>米原油在庫が690万バレル急増、クッシング在庫は2023年以来最大の伸びを記録</title>
-      <link>https://cb-terminal.dev/ja/topic/34d67d14-0065-4ba6-9e30-32d2e9c3fcdc</link>
-      <description>米原油在庫が690万バレル急増、クッシング在庫は2023年以来最大の伸びを記録</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>【更新5】イラン、米国の和平案を正式拒否　ホルムズ海峡の統制強化と停戦5条件を提示</title>
-      <link>https://cb-terminal.dev/ja/topic/c22fd758-5643-49f4-b21a-6424932f600b</link>
-      <description>【更新5】イラン、米国の和平案を正式拒否　ホルムズ海峡の統制強化と停戦5条件を提示</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Schiff、「本格的な金融危機」の到来を警告</title>
-      <link>https://cb-terminal.dev/ja/topic/9fb28581-46d5-4d55-b8ed-baabaefaff4e</link>
-      <description>Peter Schiff、「本格的な金融危機」の到来を警告</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：Circleのウォレット凍結への反発とトランプ大統領のテック会議</title>
-      <link>https://cb-terminal.dev/ja/topic/ff7de803-fe99-4d2c-b98a-08e547dbb876</link>
-      <description>6時間サマリー：Circleのウォレット凍結への反発とトランプ大統領のテック会議</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>元Lido・EthenaグロースリードのSeraphim氏、Solana Foundationに参画――「Ethereumは死んだ」と宣言</title>
-      <link>https://cb-terminal.dev/ja/topic/6df57849-d01b-4de8-b3dd-64dd9305dc25</link>
-      <description>元Lido・EthenaグロースリードのSeraphim氏、Solana Foundationに参画――「Ethereumは死んだ」と宣言</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>メラニア・トランプ夫人、人型AIロボットと共にホワイトハウスに登場</title>
-      <link>https://cb-terminal.dev/ja/topic/97720573-5a4b-4c2c-a623-92a7d420440c</link>
-      <description>メラニア・トランプ夫人、人型AIロボットと共にホワイトハウスに登場</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>BitMine、機関向けETHステーキング「MAVAN」をローンチ、運用額は68億ドルに到達</title>
-      <link>https://cb-terminal.dev/ja/topic/90caf400-5a0d-439d-84c0-c234bf8ea5f9</link>
-      <description>BitMine、機関向けETHステーキング「MAVAN」をローンチ、運用額は68億ドルに到達</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CFTCセリグ委員長、仮想通貨規制の明確化を表明—CLARITY法案を早期推進へ</title>
-      <link>https://cb-terminal.dev/ja/topic/03b97743-4ea7-4082-b224-b4621b2cdd11</link>
-      <description>CFTCセリグ委員長、仮想通貨規制の明確化を表明—CLARITY法案を早期推進へ</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ウクライナのドローン攻撃、ロシア石油輸出能力の40%を停止に追い込む</title>
-      <link>https://cb-terminal.dev/ja/topic/32eba459-8d24-4e7f-a192-ae9079d8f6b2</link>
-      <description>ウクライナのドローン攻撃、ロシア石油輸出能力の40%を停止に追い込む</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Franklin Templeton、Ondo Financeと提携し24時間取引可能なトークン化ETFをローンチ</title>
-      <link>https://cb-terminal.dev/ja/topic/c0fbe9eb-4d1b-4383-bd8d-47b25b8e6112</link>
-      <description>Franklin Templeton、Ondo Financeと提携し24時間取引可能なトークン化ETFをローンチ</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solana Foundation、2026年適用のバリデータ委任新ルールを発表</title>
-      <link>https://cb-terminal.dev/ja/topic/8fc8aa6a-819e-4ca4-93d4-37eac2c28ab1</link>
-      <description>Solana Foundation、2026年適用のバリデータ委任新ルールを発表</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ネタニヤフ首相、対イラン軍事作戦の本格化を表明</title>
-      <link>https://cb-terminal.dev/ja/topic/62917ede-183c-4a1c-aa97-d1c26c5ae1dd</link>
-      <description>ネタニヤフ首相、対イラン軍事作戦の本格化を表明</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国、今週末にパキスタンでイランとの外交協議を調整か</title>
-      <link>https://cb-terminal.dev/ja/topic/ed8615a4-6b0e-4ed0-a423-e0985c987543</link>
-      <description>米国、今週末にパキスタンでイランとの外交協議を調整か</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権、イランの提案に対する公式回答を待機</title>
-      <link>https://cb-terminal.dev/ja/topic/c5a90237-804b-409f-9553-7034779ea394</link>
-      <description>トランプ政権、イランの提案に対する公式回答を待機</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 18:58:05 +0000</lastBuildDate>
     <item>
       <title>Aster、PRL無期限先物を上場</title>
       <link>https://cb-terminal.dev/ja/topic/a34e067b-0be7-4aa5-b7a8-b9b46e3dd9fb</link>
       <description>Aster、PRL無期限先物を上場</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
     </item>
     <item>
       <title>Morgan StanleyのビットコインETF「$MSBT」、NYSEに上場へ</title>
       <link>https://cb-terminal.dev/ja/topic/d34d43c6-e56e-4ece-8861-2513eff6a4dc</link>
       <description>Morgan StanleyのビットコインETF「$MSBT」、NYSEに上場へ</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:54 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AxisがBaseネットワークで稼働、物理AIおよびロボティクス用データの規模拡大を推進</title>
+      <link>https://cb-terminal.dev/ja/topic/96ee7de2-1c3e-41f7-b7ca-20eda318cd0b</link>
+      <description>AxisがBaseネットワークで稼働、物理AIおよびロボティクス用データの規模拡大を推進</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana、新プロトコル「Constellation」を提案　50ミリ秒の経済的ティック導入へ</title>
+      <link>https://cb-terminal.dev/ja/topic/808dc762-3c0e-45b7-8953-6aa2f6cca727</link>
+      <description>Solana、新プロトコル「Constellation」を提案　50ミリ秒の経済的ティック導入へ</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>デジタルマーケットプレイスWhop、AaveおよびVedaを統合しオンチェーン財務管理機能を提供</title>
+      <link>https://cb-terminal.dev/ja/topic/ba1cef46-a435-47a0-bfaf-ebe01eb8da0f</link>
+      <description>デジタルマーケットプレイスWhop、AaveおよびVedaを統合しオンチェーン財務管理機能を提供</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abstract Chain、Virtuals Protocolを活用しAIエージェント商取引規格「ERC-8183」を導入</title>
+      <link>https://cb-terminal.dev/ja/topic/5de52253-6be4-4e9b-aaeb-e5c13bb5b3f6</link>
+      <description>Abstract Chain、Virtuals Protocolを活用しAIエージェント商取引規格「ERC-8183」を導入</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CFTCセリグ委員長、仮想通貨規制の明確化とCLARITY法の早期成立を確約</title>
+      <link>https://cb-terminal.dev/ja/topic/03b97743-4ea7-4082-b224-b4621b2cdd11</link>
+      <description>CFTCセリグ委員長、仮想通貨規制の明確化とCLARITY法の早期成立を確約</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新1】米国の停戦案に対するイランの回答を巡り情報が交錯</title>
+      <link>https://cb-terminal.dev/ja/topic/c5a90237-804b-409f-9553-7034779ea394</link>
+      <description>【更新1】米国の停戦案に対するイランの回答を巡り情報が交錯</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>イラン、攻撃を受けた場合のバブ・エル・マンデブ海峡封鎖を示唆</title>
+      <link>https://cb-terminal.dev/ja/topic/0d656ee1-774e-42a6-b561-4de5bd4df5a7</link>
+      <description>イラン、攻撃を受けた場合のバブ・エル・マンデブ海峡封鎖を示唆</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obex Incubator、10億ドルのRWAを投入　SkyEcosystemのUSDSに利回りを提供</title>
+      <link>https://cb-terminal.dev/ja/topic/a3601ebb-94f9-4635-9f45-f7c7a7f6c960</link>
+      <description>Obex Incubator、10億ドルのRWAを投入　SkyEcosystemのUSDSに利回りを提供</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>米原油価格が90ドル突破、イランがトランプ大統領の和平案を拒否</title>
+      <link>https://cb-terminal.dev/ja/topic/051e9471-070c-40df-b22a-3a4bdfb98f10</link>
+      <description>米原油価格が90ドル突破、イランがトランプ大統領の和平案を拒否</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Bank、イラン紛争が石油取引での米ドル覇権を脅かすと警告</title>
+      <link>https://cb-terminal.dev/ja/topic/0da5c641-9c4d-4c16-b8ba-b8a7718610d3</link>
+      <description>Deutsche Bank、イラン紛争が石油取引での米ドル覇権を脅かすと警告</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ホワイトハウス、5月14〜15日のトランプ大統領訪中を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/d32503c3-2c28-480a-a7b9-34114248e8c3</link>
+      <description>ホワイトハウス、5月14〜15日のトランプ大統領訪中を発表</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>イラン、島嶼占拠の脅威を警告　重要インフラへの報復を表明</title>
+      <link>https://cb-terminal.dev/ja/topic/f1846657-406c-4718-a612-a8f4a3d5f82b</link>
+      <description>イラン、島嶼占拠の脅威を警告　重要インフラへの報復を表明</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Micron、売上高が前年比約3倍の239億ドルに急増</title>
+      <link>https://cb-terminal.dev/ja/topic/4730d25f-f704-4377-97f4-97014ce10f4e</link>
+      <description>Micron、売上高が前年比約3倍の239億ドルに急増</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>イラン革命防衛隊、米軍F-18戦闘機を攻撃したと主張</title>
+      <link>https://cb-terminal.dev/ja/topic/5974877a-6fde-4301-9793-89af75c978ab</link>
+      <description>イラン革命防衛隊、米軍F-18戦闘機を攻撃したと主張</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>USPS、燃料費高騰で全小包に8%のサーチャージ導入へ</title>
+      <link>https://cb-terminal.dev/ja/topic/a56eaf7a-02bc-424a-b435-52a884ab6dfb</link>
+      <description>USPS、燃料費高騰で全小包に8%のサーチャージ導入へ</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>MetaとGoogleに300万ドルの賠償命令、SNS依存症をめぐる訴訟で画期的判決</title>
+      <link>https://cb-terminal.dev/ja/topic/f7e02eaa-8549-4b89-93db-e72aba7d7d93</link>
+      <description>MetaとGoogleに300万ドルの賠償命令、SNS依存症をめぐる訴訟で画期的判決</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新1】ホワイトハウス、イランは和平案を拒絶していないと表明　強力な軍事警告は維持</title>
+      <link>https://cb-terminal.dev/ja/topic/00a27ab9-3db3-4e13-bfc1-df1fa580fb24</link>
+      <description>【更新1】ホワイトハウス、イランは和平案を拒絶していないと表明　強力な軍事警告は維持</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robinhood予測市場、3月末の金価格4,600ドル到達確率を51%と予測</title>
+      <link>https://cb-terminal.dev/ja/topic/c596a412-56b1-4c61-afdc-85fcc1baa3ea</link>
+      <description>Robinhood予測市場、3月末の金価格4,600ドル到達確率を51%と予測</description>
+      <pubDate>Wed, 25 Mar 2026 18:58:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
