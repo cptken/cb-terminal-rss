@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 14:57:35 +0000</lastBuildDate>
-    <item>
-      <title>Lombard Finance、10億ドル相当のBitcoin資産をLayerZeroからChainlinkへ移行 — Kelp DAOの不正流出を受け</title>
-      <link>https://cb-terminal.dev/ja/topic/687f5a14-eef8-4b42-bdee-275121b26e72</link>
-      <description>Lombard Finance、10億ドル相当のBitcoin資産をLayerZeroからChainlinkへ移行 — Kelp DAOの不正流出を受け</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grvt、CentrifugeのJTRSYを統合し米国債裏付けの利回りを提供</title>
-      <link>https://cb-terminal.dev/ja/topic/a7058213-71e2-4075-8afc-95e2ca10164e</link>
-      <description>Grvt、CentrifugeのJTRSYを統合し米国債裏付けの利回りを提供</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance Research: 2025年の不正暗号資産取引、約11%が押収</title>
-      <link>https://cb-terminal.dev/ja/topic/dbfd6a06-d9ab-489e-a430-f65d352f5892</link>
-      <description>Binance Research: 2025年の不正暗号資産取引、約11%が押収</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>米10年債利回りの上昇予想が台頭、市場は利下げではなく「追加利上げ」を織り込む</title>
-      <link>https://cb-terminal.dev/ja/topic/a59e6bc2-1dd8-42c0-ba6a-7156a4d41748</link>
-      <description>米10年債利回りの上昇予想が台頭、市場は利下げではなく「追加利上げ」を織り込む</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：現物ETFから週10億ドルの流出、Hyperliquidは米国市場参入を模索</title>
-      <link>https://cb-terminal.dev/ja/topic/dda89daa-e0dd-4ce5-a06f-099cf6d69fdd</link>
-      <description>6時間サマリー：現物ETFから週10億ドルの流出、Hyperliquidは米国市場参入を模索</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAE、OPEC脱退を「戦略的選択肢」と表明　イラクは日量500万バレルへの増産を模索</title>
-      <link>https://cb-terminal.dev/ja/topic/4ae8d405-f05f-4d8e-ba78-82fe8556fecf</link>
-      <description>UAE、OPEC脱退を「戦略的選択肢」と表明　イラクは日量500万バレルへの増産を模索</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン、78,000ドルを割り込む｜ロング清算額は6.2億ドルを突破</title>
-      <link>https://cb-terminal.dev/ja/topic/4c5795fa-cb61-4902-ac70-789eb43efa0f</link>
-      <description>ビットコイン、78,000ドルを割り込む｜ロング清算額は6.2億ドルを突破</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 16:02:31 +0000</lastBuildDate>
     <item>
       <title>著名投資家らのXアカウント不正アクセス、ミームコイン詐欺ネットワークとの関連が判明</title>
       <link>https://cb-terminal.dev/ja/topic/176154b6-2cb1-4981-8d8c-62011704ac17</link>
       <description>著名投資家らのXアカウント不正アクセス、ミームコイン詐欺ネットワークとの関連が判明</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>Ledgerユーザーを標的とした物理的な詐欺書簡が自宅に届く</title>
       <link>https://cb-terminal.dev/ja/topic/a934eb34-a73c-4b02-8a25-653c610e9e16</link>
       <description>Ledgerユーザーを標的とした物理的な詐欺書簡が自宅に届く</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>イスラエル、Hamas軍事トップの殺害を確認　レバノン攻撃も激化</title>
       <link>https://cb-terminal.dev/ja/topic/f4deca4e-e659-4850-af9f-ead050e62b84</link>
       <description>イスラエル、Hamas軍事トップの殺害を確認　レバノン攻撃も激化</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>Mistral AIの公式Python SDKでサプライチェーン攻撃、悪意あるバージョンが混入</title>
       <link>https://cb-terminal.dev/ja/topic/bdbd95c8-fef2-443c-b252-beadb37c83b4</link>
       <description>Mistral AIの公式Python SDKでサプライチェーン攻撃、悪意あるバージョンが混入</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>SlowMist、Node-ipcライブラリを標的としたサプライチェーン攻撃に警戒呼びかけ</title>
       <link>https://cb-terminal.dev/ja/topic/8072fbd5-c158-403d-937f-a90252206004</link>
       <description>SlowMist、Node-ipcライブラリを標的としたサプライチェーン攻撃に警戒呼びかけ</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>Kaminoの5,000万ドル規模のUSDG借入枠、1時間足らずで上限に到達</title>
       <link>https://cb-terminal.dev/ja/topic/9375d68a-7133-48db-976b-40fea7863fbc</link>
       <description>Kaminoの5,000万ドル規模のUSDG借入枠、1時間足らずで上限に到達</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>米中、一部製品の関税引き下げで合意</title>
       <link>https://cb-terminal.dev/ja/topic/e6e08bad-0e53-4da3-a210-95b8608b16cc</link>
       <description>米中、一部製品の関税引き下げで合意</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>イラン、ホルムズ海峡での通航料徴収メカニズムを準備　欧州と公式協議を実施中</title>
       <link>https://cb-terminal.dev/ja/topic/21275706-574f-4fec-b537-fece1f2f809a</link>
       <description>イラン、ホルムズ海峡での通航料徴収メカニズムを準備　欧州と公式協議を実施中</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>SBIとRakuten、2028年までに国内で暗号資産投資信託を開始へ</title>
       <link>https://cb-terminal.dev/ja/topic/6b7feec2-f5ed-43fd-868a-511968926e89</link>
       <description>SBIとRakuten、2028年までに国内で暗号資産投資信託を開始へ</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>GMTradeが牽引、Solanaが無期限先物DEX取引高で世界第2位のチェーンに浮上</title>
       <link>https://cb-terminal.dev/ja/topic/4741bad7-67e3-4e6c-b830-9f50aa360447</link>
       <description>GMTradeが牽引、Solanaが無期限先物DEX取引高で世界第2位のチェーンに浮上</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>イラン、ホルムズ海峡で米軍艦船の航行阻止を表明　緊張激化</title>
       <link>https://cb-terminal.dev/ja/topic/fa989e32-8113-45e1-b06f-b23b1e5e5d6b</link>
       <description>イラン、ホルムズ海峡で米軍艦船の航行阻止を表明　緊張激化</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>【速報】中国、ボーイング機購入を正式発表　米国産農産物の輸入も拡大へ</title>
       <link>https://cb-terminal.dev/ja/topic/2ad99cf4-f042-44d5-bc7a-2f595f3f4816</link>
       <description>【速報】中国、ボーイング機購入を正式発表　米国産農産物の輸入も拡大へ</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
     <item>
       <title>ブータン、10億ドル規模のBitcoin売却報道を否定</title>
       <link>https://cb-terminal.dev/ja/topic/c41f31e7-9551-4a79-9b79-dcccc8158f36</link>
       <description>ブータン、10億ドル規模のBitcoin売却報道を否定</description>
-      <pubDate>Sat, 16 May 2026 14:57:35 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla、米国でModel Y全モデルを値上げ</title>
+      <link>https://cb-terminal.dev/ja/topic/b2542984-0423-4bfd-afaa-0a8982ca578b</link>
+      <description>Tesla、米国でModel Y全モデルを値上げ</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Morgan Stanley、第1四半期にSolanaへのエクスポージャーを2,990万ドルに倍増</title>
+      <link>https://cb-terminal.dev/ja/topic/f86a1dc2-318a-44b9-a6b8-48395beb164b</link>
+      <description>Morgan Stanley、第1四半期にSolanaへのエクスポージャーを2,990万ドルに倍増</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana基盤のDEX Phoenix、週間の未決済建玉が250%急増</title>
+      <link>https://cb-terminal.dev/ja/topic/0c01a52d-535c-48ab-b331-c5121f2ef192</link>
+      <description>Solana基盤のDEX Phoenix、週間の未決済建玉が250%急増</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIトレードボット、予測市場でのアービトラージ運用を拡大 スプレッド縮小に寄与</title>
+      <link>https://cb-terminal.dev/ja/topic/df808cdc-4772-40be-afdb-1b3b5e711f33</link>
+      <description>AIトレードボット、予測市場でのアービトラージ運用を拡大 スプレッド縮小に寄与</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX、6月12日のIPOで750億ドルの調達を目標　時価総額1.75兆ドル</title>
+      <link>https://cb-terminal.dev/ja/topic/4385e6f9-82d9-4dee-87b9-2112a42eebb6</link>
+      <description>SpaceX、6月12日のIPOで750億ドルの調達を目標　時価総額1.75兆ドル</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>イスラエルとヘズボラの軍事衝突が激化、停戦違反を受け相互攻撃が拡大</title>
+      <link>https://cb-terminal.dev/ja/topic/1ee96833-7a28-45ca-b0dd-577dc9994942</link>
+      <description>イスラエルとヘズボラの軍事衝突が激化、停戦違反を受け相互攻撃が拡大</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>6時間サマリー：中東情勢の緊迫化を受けBTCが78,000ドルを割り込む</title>
+      <link>https://cb-terminal.dev/ja/topic/f16f7b52-5071-4f87-836b-0b28a77306e5</link>
+      <description>6時間サマリー：中東情勢の緊迫化を受けBTCが78,000ドルを割り込む</description>
+      <pubDate>Sat, 16 May 2026 16:02:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
