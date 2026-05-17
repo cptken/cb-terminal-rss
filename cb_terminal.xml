@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 May 2026 09:06:45 +0000</lastBuildDate>
-    <item>
-      <title>WHO、エボラ出血熱の流行で「国際的に懸念される公衆衛生上の緊急事態」を宣言</title>
-      <link>https://cb-terminal.dev/ja/topic/da0c6876-db5f-43de-ba7a-916954ec4147</link>
-      <description>WHO、エボラ出血熱の流行で「国際的に懸念される公衆衛生上の緊急事態」を宣言</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>米規制当局、政治予測を巡り Kalshi と Polymarket を調査</title>
-      <link>https://cb-terminal.dev/ja/topic/89bc6487-2bfe-4955-a2f4-cc5cefbf37da</link>
-      <description>米規制当局、政治予測を巡り Kalshi と Polymarket を調査</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solana Foundation幹部、Hyperliquidコミュニティを痛烈に批判</title>
-      <link>https://cb-terminal.dev/ja/topic/d49465be-1293-4e7d-9f9c-7038a7299195</link>
-      <description>Solana Foundation幹部、Hyperliquidコミュニティを痛烈に批判</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>米OCC、Augustus Bank NAのステーブルコイン業務を条件付き承認</title>
-      <link>https://cb-terminal.dev/ja/topic/eb53cae2-5eb2-46cf-8b93-7209f6b9767a</link>
-      <description>米OCC、Augustus Bank NAのステーブルコイン業務を条件付き承認</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権高官の20%超が仮想通貨を保有、開示資料で判明</title>
-      <link>https://cb-terminal.dev/ja/topic/f4c64890-4ad2-4ba6-9ea6-75717fad569b</link>
-      <description>トランプ政権高官の20%超が仮想通貨を保有、開示資料で判明</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>米財務省、ロシア産海上原油の制裁免除を失効</title>
-      <link>https://cb-terminal.dev/ja/topic/f8a56754-5c22-4190-b7eb-710afaa54fa0</link>
-      <description>米財務省、ロシア産海上原油の制裁免除を失効</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>インドが金関税引き上げとモディ首相の購入抑制要請を受け、ゴールド価格が急騰</title>
-      <link>https://cb-terminal.dev/ja/topic/fccc8d8d-2cb8-437d-8a4e-a9b99f2c851a</link>
-      <description>インドが金関税引き上げとモディ首相の購入抑制要請を受け、ゴールド価格が急騰</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：HyperliquidのETHロングに巨額含み損、Solanaとの緊張激化</title>
-      <link>https://cb-terminal.dev/ja/topic/5a52394e-dc18-47fc-b694-5201df3e03ea</link>
-      <description>6時間サマリー：HyperliquidのETHロングに巨額含み損、Solanaとの緊張激化</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 11:08:12 +0000</lastBuildDate>
     <item>
       <title>トランプ氏支援の候補、共和党現職のカシディ上院議員を撃破</title>
       <link>https://cb-terminal.dev/ja/topic/71e81356-2444-45fb-b019-748457c0b22a</link>
       <description>トランプ氏支援の候補、共和党現職のカシディ上院議員を撃破</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>イラン紛争によるLNG供給寸断、世界的に石炭需要が再燃</title>
       <link>https://cb-terminal.dev/ja/topic/6171cf5e-796f-4592-90cc-4a0a14d26cf9</link>
       <description>イラン紛争によるLNG供給寸断、世界的に石炭需要が再燃</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>イラン、海上保険プラットフォーム「Hormuz Safe」を開始</title>
       <link>https://cb-terminal.dev/ja/topic/f1647fba-4289-4f3c-b960-e4407c2d16d1</link>
       <description>イラン、海上保険プラットフォーム「Hormuz Safe」を開始</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>「Raise Zero」、Solanaでブラインド方式のトークン・オークションを導入</title>
       <link>https://cb-terminal.dev/ja/topic/9fc87ce0-8b73-4342-9b1c-0b07ffbab89e</link>
       <description>「Raise Zero」、Solanaでブラインド方式のトークン・オークションを導入</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>米中、関税引き下げと貿易関係強化に向け前進</title>
       <link>https://cb-terminal.dev/ja/topic/e6e08bad-0e53-4da3-a210-95b8608b16cc</link>
       <description>米中、関税引き下げと貿易関係強化に向け前進</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>イールドベアリング・プロトコルApyx、TVL 4億ドルを突破　Pipプログラム終了目前で注目集まる</title>
       <link>https://cb-terminal.dev/ja/topic/a8645c67-e460-47b2-83a5-569427c0973f</link>
       <description>イールドベアリング・プロトコルApyx、TVL 4億ドルを突破　Pipプログラム終了目前で注目集まる</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>Lighter創設者、ヴィタリック・ブテリン氏およびジョセフ・ルービン氏との対談を主催へ</title>
       <link>https://cb-terminal.dev/ja/topic/47709fb3-0d80-4016-bc43-d16a280ca6a2</link>
       <description>Lighter創設者、ヴィタリック・ブテリン氏およびジョセフ・ルービン氏との対談を主催へ</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>イスラエル情報当局：イランがミサイル能力を部分的に回復と推定</title>
       <link>https://cb-terminal.dev/ja/topic/68bd1c56-4fa1-4306-9c4c-8fd3ed90e79a</link>
       <description>イスラエル情報当局：イランがミサイル能力を部分的に回復と推定</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>日韓首脳、火曜日に会談実施へ</title>
       <link>https://cb-terminal.dev/ja/topic/3c78361a-d8a6-448b-af09-7c2cc4c04f6b</link>
       <description>日韓首脳、火曜日に会談実施へ</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>AnthropicのClaude、動画の完全自動生成機能を発表</title>
       <link>https://cb-terminal.dev/ja/topic/636b07c2-d9dd-4539-b2fe-0a24be451061</link>
       <description>AnthropicのClaude、動画の完全自動生成機能を発表</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
       <title>イスラエルの空爆とドローン侵入で中東情勢が緊迫化</title>
       <link>https://cb-terminal.dev/ja/topic/8c62ce28-67f3-4aec-921f-639a1621e034</link>
       <description>イスラエルの空爆とドローン侵入で中東情勢が緊迫化</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
     <item>
-      <title>ウクライナ、ロシア石油施設とモスクワ空港をドローン攻撃：死者発生で紛争激化</title>
+      <title>日本、為替介入益を減税と防衛費に充当か</title>
+      <link>https://cb-terminal.dev/ja/topic/fff4cec9-318d-4c46-ba52-6db8b0ba673b</link>
+      <description>日本、為替介入益を減税と防衛費に充当か</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>イラン軍、トランプ大統領の脅威に対抗し米軍への「攻撃シナリオ」を警告</title>
+      <link>https://cb-terminal.dev/ja/topic/a0f5e601-d77b-40f9-8282-ee3cbf170431</link>
+      <description>イラン軍、トランプ大統領の脅威に対抗し米軍への「攻撃シナリオ」を警告</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウクライナがロシア石油施設をドローン攻撃、モスクワ製油所も標的に</title>
       <link>https://cb-terminal.dev/ja/topic/a29e4822-e95d-4fd3-9ec5-f604bc515110</link>
-      <description>ウクライナ、ロシア石油施設とモスクワ空港をドローン攻撃：死者発生で紛争激化</description>
-      <pubDate>Sun, 17 May 2026 09:06:45 +0000</pubDate>
+      <description>ウクライナがロシア石油施設をドローン攻撃、モスクワ製油所も標的に</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>6時間サマリー：LighterがEthereum共同創設者を招聘、スマートホエールはBTC利確</title>
+      <link>https://cb-terminal.dev/ja/topic/fae8fea1-b7c7-4f6c-bc51-57e58d4cd88f</link>
+      <description>6時間サマリー：LighterがEthereum共同創設者を招聘、スマートホエールはBTC利確</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>イスラエル、対イラン衝突懸念で安全保障閣僚会議を招集―米イラン交渉は停滞</title>
+      <link>https://cb-terminal.dev/ja/topic/f77ea373-1483-4444-9085-c8189edcaa18</link>
+      <description>イスラエル、対イラン衝突懸念で安全保障閣僚会議を招集―米イラン交渉は停滞</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICC、イスラエル高官5名に秘密逮捕状を発付：政治家・軍関係者が対象</title>
+      <link>https://cb-terminal.dev/ja/topic/ca76054c-a782-4fe2-b758-29eb96d7d8fd</link>
+      <description>ICC、イスラエル高官5名に秘密逮捕状を発付：政治家・軍関係者が対象</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZEST、Binance Alphaプラットフォームに掲載</title>
+      <link>https://cb-terminal.dev/ja/topic/599fcf43-26d1-499f-928b-7a809c12ad81</link>
+      <description>ZEST、Binance Alphaプラットフォームに掲載</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAEのBarakah原子力発電所付近でドローン攻撃、火災発生も安全性に影響なし</title>
+      <link>https://cb-terminal.dev/ja/topic/42fdc8b1-6558-4092-95c0-65c9cf40685f</link>
+      <description>UAEのBarakah原子力発電所付近でドローン攻撃、火災発生も安全性に影響なし</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウクライナ、モスクワ近郊への長距離ドローン攻撃成功を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/7918391e-c908-4b00-8cb9-f36c891a3889</link>
+      <description>ウクライナ、モスクワ近郊への長距離ドローン攻撃成功を発表</description>
+      <pubDate>Sun, 17 May 2026 11:08:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
