@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 21:44:11 +0000</lastBuildDate>
-    <item>
-      <title>Phantom Wallet、2330万ドルの手数料を請求しArbitrumへブリッジ</title>
-      <link>https://cb-terminal.dev/ja/topic/6034aaf6-a471-4cfd-8302-17d663986aa8</link>
-      <description>Phantom Wallet、2330万ドルの手数料を請求しArbitrumへブリッジ</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Base Mainnet、コンセンサスの不具合から完全復旧</title>
-      <link>https://cb-terminal.dev/ja/topic/270128ed-8b69-4403-a7ff-63a9743b932a</link>
-      <description>Base Mainnet、コンセンサスの不具合から完全復旧</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベネズエラで大規模地震が発生、国際社会が支援活動を展開</title>
-      <link>https://cb-terminal.dev/ja/topic/a6ff0ea3-1687-46dc-bce2-fde27ed7dd73</link>
-      <description>ベネズエラで大規模地震が発生、国際社会が支援活動を展開</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic、Alibabaを告発：2.5万件の不正アカウントでClaudeに大規模な「蒸留攻撃」</title>
-      <link>https://cb-terminal.dev/ja/topic/9101b517-d32a-4a19-8672-1aa09165f70c</link>
-      <description>Anthropic、Alibabaを告発：2.5万件の不正アカウントでClaudeに大規模な「蒸留攻撃」</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権、OpenAI「GPT-5.6」の段階的リリースを指示</title>
-      <link>https://cb-terminal.dev/ja/topic/447f2d12-a9d8-4a22-90a7-4cdaf421578e</link>
-      <description>トランプ政権、OpenAI「GPT-5.6」の段階的リリースを指示</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>カザフスタン証券取引所、Volatility Shares Solana ETFを上場</title>
-      <link>https://cb-terminal.dev/ja/topic/953323e6-d990-4ebe-9d0c-9206d6c596ca</link>
-      <description>カザフスタン証券取引所、Volatility Shares Solana ETFを上場</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Invesco、ステーブルコイン準備資産のトークン化ファンドをSECに申請</title>
-      <link>https://cb-terminal.dev/ja/topic/218e6f2e-d423-4bbc-84e5-1db67444434c</link>
-      <description>Invesco、ステーブルコイン準備資産のトークン化ファンドをSECに申請</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>SanDisk株、セクターの好調を受け21.5%急騰</title>
-      <link>https://cb-terminal.dev/ja/topic/b9e2d425-6f6a-45d4-8522-232136a7a5d7</link>
-      <description>SanDisk株、セクターの好調を受け21.5%急騰</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hyperliquidの無期限先物建玉シェア、CEXに対し過去最高の8.6%を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/d85e680c-8204-4d95-b9b4-6a6936e6d5aa</link>
-      <description>Hyperliquidの無期限先物建玉シェア、CEXに対し過去最高の8.6%を記録</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin、2024年末以来の安値を記録 市場の弱含みが継続</title>
-      <link>https://cb-terminal.dev/ja/topic/497085a2-6517-4647-bae0-53b943093b87</link>
-      <description>Bitcoin、2024年末以来の安値を記録 市場の弱含みが継続</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>SBIグループ、2億8900万ドルでbitbankを完全子会社化へ</title>
-      <link>https://cb-terminal.dev/ja/topic/99ae5788-622a-4547-998b-bc59b6c492bf</link>
-      <description>SBIグループ、2億8900万ドルでbitbankを完全子会社化へ</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 23:19:32 +0000</lastBuildDate>
     <item>
       <title>Sophon、独自L2を閉鎖しBaseネットワークへ移行　消費者向け製品スタジオへ転換</title>
       <link>https://cb-terminal.dev/ja/topic/1e0bfae9-2385-46a3-ba27-e066fe709107</link>
       <description>Sophon、独自L2を閉鎖しBaseネットワークへ移行　消費者向け製品スタジオへ転換</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>Aave創設者、Krakenとの出資交渉における「70%割引でのトークン売却」を否定</title>
       <link>https://cb-terminal.dev/ja/topic/8817b191-affe-48af-ad2d-cf3890f96790</link>
       <description>Aave創設者、Krakenとの出資交渉における「70%割引でのトークン売却」を否定</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、リテール需要低迷を受けIPOを2027年に延期検討</title>
       <link>https://cb-terminal.dev/ja/topic/efb22750-03f8-449a-be50-ea0a29ae700e</link>
       <description>OpenAI、リテール需要低迷を受けIPOを2027年に延期検討</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>ON Semiconductor、Synapticsを70億ドルで買収合意</title>
       <link>https://cb-terminal.dev/ja/topic/0bd7c238-2169-4e2e-b8a2-646b4dad2727</link>
       <description>ON Semiconductor、Synapticsを70億ドルで買収合意</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>Palantir、2023年以来最長の7日続落 — マイケル・バーリ氏はショート解消</title>
       <link>https://cb-terminal.dev/ja/topic/9820a33a-4a6d-407b-a553-7ec63225a043</link>
       <description>Palantir、2023年以来最長の7日続落 — マイケル・バーリ氏はショート解消</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>Apple株、ハードウェア値上げの影響で6.1%急落</title>
       <link>https://cb-terminal.dev/ja/topic/3340f541-12ca-4486-8c10-a2fce2d3aaf8</link>
       <description>Apple株、ハードウェア値上げの影響で6.1%急落</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>6時間サマリー：MicroStrategyが140億ドルの含み損、KrakenはAaveの株式取得を検討</title>
       <link>https://cb-terminal.dev/ja/topic/47a45a93-ac63-42f7-a71f-9d0ffe62d913</link>
       <description>6時間サマリー：MicroStrategyが140億ドルの含み損、KrakenはAaveの株式取得を検討</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>BitGo、従業員の15%を削減：中核サービスとAIインフラへ事業を集約</title>
       <link>https://cb-terminal.dev/ja/topic/f9dd9e83-5b65-40df-9eb7-f76e0ff0f16f</link>
       <description>BitGo、従業員の15%を削減：中核サービスとAIインフラへ事業を集約</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>台湾株のデフォルト、6月に過去最高の6200万ドルを記録　レバレッジ懸念背景に</title>
       <link>https://cb-terminal.dev/ja/topic/4d6778f9-1a65-4b57-b6a3-b0200813a5d4</link>
       <description>台湾株のデフォルト、6月に過去最高の6200万ドルを記録　レバレッジ懸念背景に</description>
-      <pubDate>Thu, 25 Jun 2026 21:44:11 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>24時間サマリー：巨額清算でBTCが58,000ドルへ急落、AIメモリ不足が伝統金融にも波及</title>
+      <link>https://cb-terminal.dev/ja/topic/cb4e84a8-83b2-43b5-aba0-d846ab15e981</link>
+      <description>24時間サマリー：巨額清算でBTCが58,000ドルへ急落、AIメモリ不足が伝統金融にも波及</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrayscaleのHyperliquid ETF（HYPG）、シード資金1億ドルを突破し集約を推進</title>
+      <link>https://cb-terminal.dev/ja/topic/97b1f1e8-9e72-4d2c-9c75-1fbd6c86c3dd</link>
+      <description>GrayscaleのHyperliquid ETF（HYPG）、シード資金1億ドルを突破し集約を推進</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新】ベネズエラEl Palito製油所で原油流出、地震発生翌日に衛星画像で確認</title>
+      <link>https://cb-terminal.dev/ja/topic/ae530a14-d6c8-40de-9b23-dff4991d7809</link>
+      <description>【更新】ベネズエラEl Palito製油所で原油流出、地震発生翌日に衛星画像で確認</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>共和党議員、Crypto Clarity Actの可決に向けた動きを加速</title>
+      <link>https://cb-terminal.dev/ja/topic/08ac6d72-897e-410d-b43f-d8dd055e713e</link>
+      <description>共和党議員、Crypto Clarity Actの可決に向けた動きを加速</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>NATO、7月の首脳会議で数百億ドル規模の新規防衛契約を発表へ</title>
+      <link>https://cb-terminal.dev/ja/topic/b3c85b1f-d023-437d-bbb6-e0a36095e7d9</link>
+      <description>NATO、7月の首脳会議で数百億ドル規模の新規防衛契約を発表へ</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymarket、300万ドルのフィッシング被害に対し全額返金を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/9206955a-3214-488e-a009-aa650b6003f3</link>
+      <description>Polymarket、300万ドルのフィッシング被害に対し全額返金を発表</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitwise Hyperliquid ETF、280万ドルの日次流出を記録</title>
+      <link>https://cb-terminal.dev/ja/topic/1bf8a94e-b728-4ca7-a06c-7734cce971e0</link>
+      <description>Bitwise Hyperliquid ETF、280万ドルの日次流出を記録</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liquity、Votiumを通じてCurveのBOLD/USDCプール報酬を強化</title>
+      <link>https://cb-terminal.dev/ja/topic/9830874a-f81a-45b1-972c-e60fff395a39</link>
+      <description>Liquity、Votiumを通じてCurveのBOLD/USDCプール報酬を強化</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kalshi、1日の取引高が過去最高の17億ドルを記録</title>
+      <link>https://cb-terminal.dev/ja/topic/76a254a4-9e3d-4385-9cc6-444013096377</link>
+      <description>Kalshi、1日の取引高が過去最高の17億ドルを記録</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backpackのトークン化株式、Solana上で1日の取引高1億ドルを突破</title>
+      <link>https://cb-terminal.dev/ja/topic/adacea78-ede5-47d8-bc4f-3600a0ae7884</link>
+      <description>Backpackのトークン化株式、Solana上で1日の取引高1億ドルを突破</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領、イランからの小麦・大豆・トウモロコシの購入を発表</title>
+      <link>https://cb-terminal.dev/ja/topic/06e7fb1b-5f16-474a-a192-3dc55573c0a9</link>
+      <description>トランプ大統領、イランからの小麦・大豆・トウモロコシの購入を発表</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
