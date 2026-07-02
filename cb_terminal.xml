@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:34:40 +0000</lastBuildDate>
-    <item>
-      <title>Standard Chartered、機関投資家向けUSDC発行サービスを開始</title>
-      <link>https://cb-terminal.dev/ja/topic/b4647ac6-438b-4a40-a5af-5297c3efb856</link>
-      <description>Standard Chartered、機関投資家向けUSDC発行サービスを開始</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>AscendEX、出金停止で懸念高まる　ユーザーに対し規制当局への通報を推奨</title>
-      <link>https://cb-terminal.dev/ja/topic/5fda790d-bae2-4c20-ae31-f84407f09963</link>
-      <description>AscendEX、出金停止で懸念高まる　ユーザーに対し規制当局への通報を推奨</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robinhood Chainメインネットがローンチ、Arcus DEXを巡る論争でDYDXが急落</title>
-      <link>https://cb-terminal.dev/ja/topic/b1905299-2d41-4ac9-bf81-e957711a714c</link>
-      <description>Robinhood Chainメインネットがローンチ、Arcus DEXを巡る論争でDYDXが急落</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance、SECサンドボックスの下でフィリピン市場に正式参入</title>
-      <link>https://cb-terminal.dev/ja/topic/f6bec20c-9efa-424b-84f6-bfdded25b2f9</link>
-      <description>Binance、SECサンドボックスの下でフィリピン市場に正式参入</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>韓国の信用取引残高が過去最高、個人投資家は金利上昇を背景に銀行融資へシフト</title>
-      <link>https://cb-terminal.dev/ja/topic/3992d1ec-b467-48c3-9728-d163fec3d05e</link>
-      <description>韓国の信用取引残高が過去最高、個人投資家は金利上昇を背景に銀行融資へシフト</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI長官Kash Patel、MicroStrategy株の6桁ドル購入を公開、報告義務違反の疑い</title>
-      <link>https://cb-terminal.dev/ja/topic/b10705dd-716b-43b0-bd80-1a170d85b220</link>
-      <description>FBI長官Kash Patel、MicroStrategy株の6桁ドル購入を公開、報告義務違反の疑い</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>米イ、ホルムズ海峡の航行権を巡り対立　地政学リスク高まる</title>
-      <link>https://cb-terminal.dev/ja/topic/c2968cd8-947b-4b15-92ea-964d2d38fbd4</link>
-      <description>米イ、ホルムズ海峡の航行権を巡り対立　地政学リスク高まる</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル円、不意打ちの介入観測で161円割れ。財務省はノーコメント</title>
-      <link>https://cb-terminal.dev/ja/topic/129e45a5-1c69-451d-adca-c881b5eb1a4a</link>
-      <description>ドル円、不意打ちの介入観測で161円割れ。財務省はノーコメント</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance Futures、複数のUSDⓢ証拠金TradFi無期限先物を上場へ</title>
-      <link>https://cb-terminal.dev/ja/topic/9d78bca4-10eb-4515-b860-7bedda96a7e4</link>
-      <description>Binance Futures、複数のUSDⓢ証拠金TradFi無期限先物を上場へ</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robinhood、Ethereum L2メインネットをローンチ　Uniswap活用で株式トークンの24時間取引開始</title>
-      <link>https://cb-terminal.dev/ja/topic/2f8b714f-7136-4c8a-bc0c-474720b5e43d</link>
-      <description>Robinhood、Ethereum L2メインネットをローンチ　Uniswap活用で株式トークンの24時間取引開始</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：アジア市場の急落とRobinhood L2メインネットのローンチ</title>
-      <link>https://cb-terminal.dev/ja/topic/8939b799-98b1-48bf-b401-9dfca9f9a3d5</link>
-      <description>6時間サマリー：アジア市場の急落とRobinhood L2メインネットのローンチ</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 14:04:46 +0000</lastBuildDate>
     <item>
       <title>OKX、現物取引に $DATA を上場</title>
       <link>https://cb-terminal.dev/ja/topic/35372ef3-de65-46fd-a9c1-2e250ef11b7d</link>
       <description>OKX、現物取引に $DATA を上場</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Strive CEO、異常な市場環境を受け$SATA株式の100ドル自動発行停止を表明</title>
       <link>https://cb-terminal.dev/ja/topic/83563045-7b38-4924-80e7-63946b1bd021</link>
       <description>Strive CEO、異常な市場環境を受け$SATA株式の100ドル自動発行停止を表明</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Arthur Hayes、推奨から数日で「Holy Trinity」銘柄を全売却</title>
       <link>https://cb-terminal.dev/ja/topic/a04013e9-ba40-4991-805b-d051041996bd</link>
       <description>Arthur Hayes、推奨から数日で「Holy Trinity」銘柄を全売却</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>OpenstockのZhongji Innolight Pre-IPOヴォルト、開始10分で560万ドルを確保</title>
       <link>https://cb-terminal.dev/ja/topic/a8e9d8b9-0565-4530-b9de-c480d0223bc2</link>
       <description>OpenstockのZhongji Innolight Pre-IPOヴォルト、開始10分で560万ドルを確保</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>イラン、ハメネイ師死去で報復を宣言　米・イスラエルへ警告</title>
       <link>https://cb-terminal.dev/ja/topic/345f062f-d94e-4a94-96d1-da8c5d560457</link>
       <description>イラン、ハメネイ師死去で報復を宣言　米・イスラエルへ警告</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Binance Futures、USD証拠金ETHUSD1無期限先物を上場へ</title>
       <link>https://cb-terminal.dev/ja/topic/7fb3f2e4-7ac6-4191-aaae-55f91e1945a1</link>
       <description>Binance Futures、USD証拠金ETHUSD1無期限先物を上場へ</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Lista Lending、MicroStrategyなどのトークン化株式を担保資産に追加</title>
       <link>https://cb-terminal.dev/ja/topic/71c34b31-3d69-4c7c-81a2-75ec8a14c55e</link>
       <description>Lista Lending、MicroStrategyなどのトークン化株式を担保資産に追加</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Hyperliquid、$GRAM 無期限先物を上場 最大5倍レバレッジに対応</title>
       <link>https://cb-terminal.dev/ja/topic/93da8491-3951-4afe-b8b8-ac919cd09546</link>
       <description>Hyperliquid、$GRAM 無期限先物を上場 最大5倍レバレッジに対応</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
     <item>
       <title>JPMorgan、湾岸諸国の銀行らとシリア向け70億ドル融資に参加へ</title>
       <link>https://cb-terminal.dev/ja/topic/1da791ee-475b-4a3a-851b-8d76c39c21b6</link>
       <description>JPMorgan、湾岸諸国の銀行らとシリア向け70億ドル融資に参加へ</description>
-      <pubDate>Thu, 02 Jul 2026 11:34:40 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>暗号資産市場が反発、3億ドル規模のショート清算を誘発</title>
+      <link>https://cb-terminal.dev/ja/topic/0a0f113a-4191-44d5-ab96-8c25236fad21</link>
+      <description>暗号資産市場が反発、3億ドル規模のショート清算を誘発</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>米イラン合意を受けホルムズ海峡の原油出荷が急増、サウジ輸出も回復基調に</title>
+      <link>https://cb-terminal.dev/ja/topic/508f12c3-0cdb-491d-9a3a-5ae170529173</link>
+      <description>米イラン合意を受けホルムズ海峡の原油出荷が急増、サウジ輸出も回復基調に</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>仮想通貨フレンドリーなErebor Bank、評価額80億ドルで資金調達を交渉中</title>
+      <link>https://cb-terminal.dev/ja/topic/7a24e406-bfb0-44ea-a0a2-21e84a429a30</link>
+      <description>仮想通貨フレンドリーなErebor Bank、評価額80億ドルで資金調達を交渉中</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領、NATOへの支出に「何の利益も得ていない」と批判</title>
+      <link>https://cb-terminal.dev/ja/topic/211d097a-b1db-429b-a3e7-2320e0601aa9</link>
+      <description>トランプ大統領、NATOへの支出に「何の利益も得ていない」と批判</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ondo Finance、BlackRockのIVV ETFおよびMicron株のトークン化を開始</title>
+      <link>https://cb-terminal.dev/ja/topic/078a70eb-12b0-4f6a-9168-811f3bb8bed5</link>
+      <description>Ondo Finance、BlackRockのIVV ETFおよびMicron株のトークン化を開始</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla 第2四半期納車台数は480,126台、市場予想を大幅に上回る</title>
+      <link>https://cb-terminal.dev/ja/topic/3a6f0850-c676-48a5-89a9-f1f3c14e911a</link>
+      <description>Tesla 第2四半期納車台数は480,126台、市場予想を大幅に上回る</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rivian、第2四半期の生産好調を受け通期の納車見通しを引き上げ</title>
+      <link>https://cb-terminal.dev/ja/topic/c44080f1-3221-4d09-8524-cbe32e6c4402</link>
+      <description>Rivian、第2四半期の生産好調を受け通期の納車見通しを引き上げ</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>シリア・ダマスカスで爆発、4名死亡・11名負傷　地政学的リスクに警戒</title>
+      <link>https://cb-terminal.dev/ja/topic/5d4e2162-61f9-4cf8-8f8b-69bd8e6dcac4</link>
+      <description>シリア・ダマスカスで爆発、4名死亡・11名負傷　地政学的リスクに警戒</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solana上で機関投資家向けトークン化米国債とMMFがローンチ</title>
+      <link>https://cb-terminal.dev/ja/topic/2640f8a4-c238-4071-be83-b92d77b7ce9a</link>
+      <description>Solana上で機関投資家向けトークン化米国債とMMFがローンチ</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>米6月非農業部門雇用者数、予想を大幅に下振れ　市場のボラティリティ急上昇</title>
+      <link>https://cb-terminal.dev/ja/topic/ea457021-50c8-4443-adfc-4ddd2544962e</link>
+      <description>米6月非農業部門雇用者数、予想を大幅に下振れ　市場のボラティリティ急上昇</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic、カスタムAIチップ製造でSamsungと協議中</title>
+      <link>https://cb-terminal.dev/ja/topic/041d6e97-772b-4a39-ba6c-be1381c7e6af</link>
+      <description>Anthropic、カスタムAIチップ製造でSamsungと協議中</description>
+      <pubDate>Thu, 02 Jul 2026 14:04:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
