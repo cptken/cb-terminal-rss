@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 17:57:02 +0000</lastBuildDate>
-    <item>
-      <title>予測市場ブローカーRiver Markets、シードラウンドで850万ドルを調達</title>
-      <link>https://cb-terminal.dev/ja/topic/9d7a8180-b7b9-4f34-b8f6-e3af34781533</link>
-      <description>予測市場ブローカーRiver Markets、シードラウンドで850万ドルを調達</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ignis AI Labs、Umbrae DLMM流出資金の20%を報奨金として提示 残り80%の返還で合意</title>
-      <link>https://cb-terminal.dev/ja/topic/d27e3788-2d96-4e90-a4ec-256151f4f111</link>
-      <description>Ignis AI Labs、Umbrae DLMM流出資金の20%を報奨金として提示 残り80%の返還で合意</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twenty One Capital、第2四半期に4.13億ドルの純損失　BTC下落が主要因</title>
-      <link>https://cb-terminal.dev/ja/topic/c8ca9f48-ddde-42e1-a454-fcd3c3fc9666</link>
-      <description>Twenty One Capital、第2四半期に4.13億ドルの純損失　BTC下落が主要因</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lighter、メインネットでV3を正式ローンチ　UI/UXを全面刷新</title>
-      <link>https://cb-terminal.dev/ja/topic/b329bbe2-5d6c-4a46-9f9e-a42aa0703b17</link>
-      <description>Lighter、メインネットでV3を正式ローンチ　UI/UXを全面刷新</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ビットコインおよびイーサリアムETF、大幅な純流出を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/d8281918-4293-4968-9d73-1cca13f37898</link>
-      <description>ビットコインおよびイーサリアムETF、大幅な純流出を記録</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【更新1】米イ合意への期待とトランプ大統領の発言で原油急落</title>
-      <link>https://cb-terminal.dev/ja/topic/1b90a878-ffec-41b5-8944-d0a65768b099</link>
-      <description>【更新1】米イ合意への期待とトランプ大統領の発言で原油急落</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>6時間サマリー：ロシアが主要仮想通貨取引を承認、Solanaのトランザクション数が過去最高（ATH）を記録</title>
-      <link>https://cb-terminal.dev/ja/topic/1d30bf85-32e9-4260-8786-6d6580b1a1f1</link>
-      <description>6時間サマリー：ロシアが主要仮想通貨取引を承認、Solanaのトランザクション数が過去最高（ATH）を記録</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discordの専用リンク乗っ取りに警告、仮想通貨プロジェクトが標的に</title>
-      <link>https://cb-terminal.dev/ja/topic/025f6194-ec9b-4dfd-a1ce-f56e142a64e6</link>
-      <description>Discordの専用リンク乗っ取りに警告、仮想通貨プロジェクトが標的に</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aster、DOS無期限先物を上場 5倍レバレッジに対応</title>
-      <link>https://cb-terminal.dev/ja/topic/0779aad5-5603-4954-b429-0771e296de8a</link>
-      <description>Aster、DOS無期限先物を上場 5倍レバレッジに対応</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stripe Treasury、ArbitrumネットワークのUSDCに対応　100カ国以上で展開</title>
-      <link>https://cb-terminal.dev/ja/topic/4e5a83fb-b489-454c-8d39-3d0eeeb83c4f</link>
-      <description>Stripe Treasury、ArbitrumネットワークのUSDCに対応　100カ国以上で展開</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Media、HFT企業向けにTruth APIを提供　トランプ大統領の投稿へ高速アクセス</title>
-      <link>https://cb-terminal.dev/ja/topic/b3529487-0bec-4c61-a8c7-e57d6947f88e</link>
-      <description>Trump Media、HFT企業向けにTruth APIを提供　トランプ大統領の投稿へ高速アクセス</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 19:10:02 +0000</lastBuildDate>
     <item>
       <title>Flow Bridgeが大型アップグレードを実施、Hyperlaneルートを廃止へ</title>
       <link>https://cb-terminal.dev/ja/topic/0ec18eb8-a410-44ac-8582-02a4c9efcbfe</link>
       <description>Flow Bridgeが大型アップグレードを実施、Hyperlaneルートを廃止へ</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>Unisat Wallet、シードフレーズ生成に脆弱性が判明</title>
       <link>https://cb-terminal.dev/ja/topic/6130b02f-f03c-4877-95f1-e238a798dda6</link>
       <description>Unisat Wallet、シードフレーズ生成に脆弱性が判明</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>Aster、無期限先物上場フレームワーク「AOS-2」をローンチ</title>
       <link>https://cb-terminal.dev/ja/topic/0f81f9a4-e2f0-4d5e-b421-2f2142a3023c</link>
       <description>Aster、無期限先物上場フレームワーク「AOS-2」をローンチ</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>【更新】Brent原油が急騰、イランが要求達成までホルムズ海峡の封鎖継続を強調</title>
       <link>https://cb-terminal.dev/ja/topic/cfaf7054-3153-43f6-a2bd-f164c26b6a99</link>
       <description>【更新】Brent原油が急騰、イランが要求達成までホルムズ海峡の封鎖継続を強調</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>ロシア、個人投資家の仮想通貨購入に年間約3,645ドルの上限を提案</title>
       <link>https://cb-terminal.dev/ja/topic/ddd1524d-8a90-4fb9-86a8-499d81a0dfc5</link>
       <description>ロシア、個人投資家の仮想通貨購入に年間約3,645ドルの上限を提案</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>OpenAIのCOO Brad Lightcap氏が辞任、幹部の離脱相次ぐ</title>
       <link>https://cb-terminal.dev/ja/topic/26cbdcef-3322-408e-8508-89d476174910</link>
       <description>OpenAIのCOO Brad Lightcap氏が辞任、幹部の離脱相次ぐ</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>MicroStrategy、年内にBitcoin購入再開へ</title>
       <link>https://cb-terminal.dev/ja/topic/b3fbb705-f9f4-4c27-b97e-baf6b8e1075d</link>
       <description>MicroStrategy、年内にBitcoin購入再開へ</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>仮想通貨フレンドリーなErebor Bank、15億ドルの資金調達を計画 — 評価額は95億ドルに上昇</title>
       <link>https://cb-terminal.dev/ja/topic/8a323b65-7dee-492d-b40d-dec796762a95</link>
       <description>仮想通貨フレンドリーなErebor Bank、15億ドルの資金調達を計画 — 評価額は95億ドルに上昇</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
     <item>
       <title>【更新】イラン軍の再編とエネルギー施設への脅威で原油価格が高止まり</title>
       <link>https://cb-terminal.dev/ja/topic/59d7ea8f-03a0-4f4c-9d79-aaf79b907ab8</link>
       <description>【更新】イラン軍の再編とエネルギー施設への脅威で原油価格が高止まり</description>
-      <pubDate>Tue, 11 Aug 2026 17:57:02 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleのGemini、月間アクティブユーザー数10億人を突破</title>
+      <link>https://cb-terminal.dev/ja/topic/e928bcd8-c3bd-4f48-bf43-a69229567256</link>
+      <description>GoogleのGemini、月間アクティブユーザー数10億人を突破</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>米CFTC、議会の動向に関わらず独自の暗号資産規制を推進する構え</title>
+      <link>https://cb-terminal.dev/ja/topic/ff7901c9-f845-453f-a45b-bfb543b2314c</link>
+      <description>米CFTC、議会の動向に関わらず独自の暗号資産規制を推進する構え</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>中東情勢が緊迫化：ホルムズ海峡封鎖示唆とフーシ派の攻撃で原油急騰</title>
+      <link>https://cb-terminal.dev/ja/topic/41b7a84f-0d80-4831-91a9-7c328ec6e5fb</link>
+      <description>中東情勢が緊迫化：ホルムズ海峡封鎖示唆とフーシ派の攻撃で原油急騰</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領、イランによる暗殺予告を受けトルコを極秘出国</title>
+      <link>https://cb-terminal.dev/ja/topic/4d7a67bf-9a2a-43fd-aca6-46ca97a3d823</link>
+      <description>トランプ大統領、イランによる暗殺予告を受けトルコを極秘出国</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ravencoin、深刻な脆弱性によりエクスプロイト発生：ロールバックの懸念でRVNは20%急落</title>
+      <link>https://cb-terminal.dev/ja/topic/1a35efe4-fa3d-4335-abe5-dfd2595c249f</link>
+      <description>Ravencoin、深刻な脆弱性によりエクスプロイト発生：ロールバックの懸念でRVNは20%急落</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coinbase、アブダビを国際トークン化ハブに指定 規制承認を取得</title>
+      <link>https://cb-terminal.dev/ja/topic/cffb1bc0-be76-4238-a4b8-0a06aeb0bfc8</link>
+      <description>Coinbase、アブダビを国際トークン化ハブに指定 規制承認を取得</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>オプションのプット・コール・スキュー、2025年4月以来の低水準に低下</title>
+      <link>https://cb-terminal.dev/ja/topic/77a3a84a-ba0b-4eeb-8d35-f9a07100c9dc</link>
+      <description>オプションのプット・コール・スキュー、2025年4月以来の低水準に低下</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>MicroStrategy、47.5億ドルの現金準備金確保に向けBitcoinを売却</title>
+      <link>https://cb-terminal.dev/ja/topic/5c633022-19a7-40fa-9a7b-80079ab2114f</link>
+      <description>MicroStrategy、47.5億ドルの現金準備金確保に向けBitcoinを売却</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>米上院、Clarity Actの動議採決を来月に延期</title>
+      <link>https://cb-terminal.dev/ja/topic/5125e98e-473c-43e7-832b-af62f6b6203e</link>
+      <description>米上院、Clarity Actの動議採決を来月に延期</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic、史上最大のIPOを準備　投資家の懸念と「開発の完全自動化」予測の中で</title>
+      <link>https://cb-terminal.dev/ja/topic/5f7a11e0-8d94-4155-8eec-3ed0be4d86fe</link>
+      <description>Anthropic、史上最大のIPOを準備　投資家の懸念と「開発の完全自動化」予測の中で</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【更新】米軍、イラン封鎖突破を試みたパナマ船籍の船舶を無力化 地政学リスクで原油高</title>
+      <link>https://cb-terminal.dev/ja/topic/34c8f030-7cb0-4eed-acce-88bacf2e45eb</link>
+      <description>【更新】米軍、イラン封鎖突破を試みたパナマ船籍の船舶を無力化 地政学リスクで原油高</description>
+      <pubDate>Tue, 11 Aug 2026 19:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
